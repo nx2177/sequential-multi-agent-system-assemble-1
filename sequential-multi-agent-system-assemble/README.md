@@ -34,6 +34,34 @@ The system includes a simulation mode that generates 5 types of candidates:
 
 These candidates are processed through all agent pipelines without requiring actual API calls.
 
+## The Overall Process Flow
+The system works through this sequence:
+
+### Input Processing:
+
+ -Loads resume texts and job description from files
+ -Prepares inputs for the pipeline
+
+
+### Pipeline Execution:
+
+For each combination of agents A, B, C:
+
+    For each resume:
+
+        -Agent A extracts keywords from the resume
+        -Agent B filters the candidate based on keywords and job requirements
+        -If not filtered out, Agent C ranks the candidate
+        -Results are stored for each candidate
+
+    -After processing all resumes, Agent C ranks all non-filtered candidates
+    -Final pipeline results are collated
+
+### Result Evaluation and Output:
+
+Results are evaluated across all pipelines
+Results are printed and saved to a JSON file
+
 ## Usage
 
 ### Installation
