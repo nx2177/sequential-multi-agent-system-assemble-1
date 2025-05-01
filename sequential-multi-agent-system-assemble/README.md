@@ -47,8 +47,12 @@ The system works through this sequence:
 
 ### Pipeline Execution:
 
+
+
 For each combination of agents A, B, C:
 
+    
+    
     For each resume:
 
         -Agent A extracts keywords from the resume
