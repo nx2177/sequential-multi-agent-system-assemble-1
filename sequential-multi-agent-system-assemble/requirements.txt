@@ -1,0 +1,4 @@
+langchain-core>=0.3.56
+langchain-community>=0.3.23
+openai>=1.0.0
+tiktoken>=0.6.0 

@@ -1,0 +1,1891 @@
+[
+  {
+    "sequence": "A1->B1->C1",
+    "filtered_out": [
+      "resume1",
+      "resume2",
+      "resume3",
+      "resume4",
+      "resume5"
+    ],
+    "candidates": [
+      {
+        "resume_id": "resume1",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "CI/CD",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MongoDB",
+            "Neo4j",
+            "Redis",
+            "Spark",
+            "Kafka",
+            "Airflow"
+          ],
+          "soft_skills": [
+            "Technical Leadership",
+            "Project Management",
+            "Cross-functional Collaboration",
+            "Mentoring",
+            "Agile Development",
+            "Strategic Planning"
+          ],
+          "education": [
+            "Master of Science in Computer Science, Stanford University",
+            "Bachelor of Science in Computer Engineering, University of California, Berkeley"
+          ],
+          "experience": [
+            "Principal Machine Learning Engineer at Quantum AI Solutions",
+            "Senior Machine Learning Engineer at TechNova Inc",
+            "Machine Learning Engineer at DataPulse"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate against the job requirements:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 95,\n  \"strengths\": [\n    \"Strong proficiency in Python and major ML frameworks (TensorFlow, PyTorch)\",  \n    \"Experience with cloud platforms (AWS, GCP, Azure)\",\n    \"Knowledge of Docker, Kubernetes, CI/CD pipelines\",\n    \"Familiarity with SQL and NoSQL databases\",\n    \"Strong technical skills overall (distributed systems, data pipelines, APIs)\",\n    \"Master's degree in Computer Science exceeds education requirement\",\n    \"Extensive experience as Machine Learning Engineer at various levels\"\n  ],\n  \"gaps\": [\n    \"Job description prefers experience with Spark and Kafka, which are not listed\"\n  ],\n  \"overall_assessment\": \"The candidate is an extremely strong fit for the Senior Machine Learning Engineer role, meeting or exceeding nearly all requirements. Their advanced degree, extensive ML engineering experience, and expertise in key technologies make them well-suited for the technical demands and leadership aspects of this senior position.\",\n  \"filtered_out\": false  \n}\n\nBased on the candidate's keywords, they meet all the hard requirements for minimum education (Master's degree), years of experience (extensive ML engineering roles), and technical skills (Python, major ML frameworks, cloud platforms, data tools). The breadth and depth of their skills are a great match for the role.\n\nThe only minor gap is no mention of Spark and Kafka, which are nice-to-haves but not strict requirements. Overall, this candidate should definitely be moved forward to an interview given their strong qualifications. Let me know if you need any other information!",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume2",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "JavaScript",
+            "Node.js",
+            "React",
+            "AWS",
+            "GCP",
+            "Docker",
+            "Git",
+            "CI/CD",
+            "Jenkins",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MySQL",
+            "PostgreSQL",
+            "TensorFlow",
+            "scikit-learn",
+            "Data Analysis",
+            "Jupyter",
+            "pandas",
+            "NumPy",
+            "Matplotlib"
+          ],
+          "soft_skills": [
+            "Team Collaboration",
+            "Agile/Scrum",
+            "Technical Documentation",
+            "Stakeholder Communication",
+            "Problem Solving"
+          ],
+          "education": [
+            "Bachelor of Science in Computer Science, University of Washington"
+          ],
+          "experience": [
+            "Senior Software Engineer at Enterprise Solutions",
+            "Software Engineer at TechSphere Inc.",
+            "Full Stack Developer at WebDynamics"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the assessment of the candidate against the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 85,\n  \"strengths\": [\n    \"Strong proficiency in Python and machine learning frameworks\",\n    \"Experience with AWS and GCP cloud platforms\", \n    \"Knowledge of Docker, CI/CD, and REST APIs\",\n    \"Familiarity with SQL and databases\",\n    \"Relevant technical skills including Data Analysis, pandas, NumPy\"\n  ],\n  \"gaps\": [\n    \"No explicit mention of 5+ years of experience, with 3+ years in ML/AI\",\n    \"Master's degree preferred but candidate has Bachelor's\",\n    \"No specific experience with distributed systems like Spark or Kafka\"\n  ],\n  \"overall_assessment\": \"The candidate is a strong match for the Senior Machine Learning Engineer role, with proficiency in key areas like Python, ML frameworks, cloud platforms, and data engineering. They meet most of the core requirements and have impressive relevant skills. Some gaps to note are the preferred education level and years of experience, but these may be offset by the depth of their skill set.\",\n  \"filtered_out\": false\n}\n\nThe candidate meets the essential requirements and should move forward to the next stage of evaluation. Their extensive technical skills, particularly in Python, machine learning, cloud, and data, make them well-suited for the role. A few preferred qualifications are lacking, but these are not hard requirements.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume3",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "scikit-learn",
+            "C++",
+            "Julia",
+            "Git",
+            "Linux",
+            "CUDA",
+            "Docker",
+            "SQL",
+            "AWS (basic)"
+          ],
+          "soft_skills": [
+            "Research Methodology",
+            "Technical Writing",
+            "Problem Solving",
+            "Analytical Thinking",
+            "Scientific Communication"
+          ],
+          "education": [
+            "Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University",
+            "Master of Science in Computer Science, University of Illinois Urbana-Champaign",
+            "Bachelor of Science in Computer Engineering, University of Texas at Austin"
+          ],
+          "experience": [
+            "Senior Machine Learning Engineer at Vision Technologies",
+            "Research Scientist at AI Research Lab",
+            "Machine Learning Intern at DataScience Inc."
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate based on their resume keywords and the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"strengths\": [\n    \"Strong proficiency in Python and ML frameworks (TensorFlow, PyTorch)\", \n    \"Experience as a Senior Machine Learning Engineer\",\n    \"Research background and Ph.D. in relevant field\",\n    \"Knowledge of SQL, Docker, Linux\",\n    \"Experience with CUDA, indicating GPU/deep learning expertise\"\n  ],\n  \"gaps\": [\n    \"Cloud platform experience not explicitly mentioned\",\n    \"CI/CD and API design experience not highlighted\"\n  ],\n  \"overall_assessment\": \"The candidate is a strong fit for the Senior Machine Learning Engineer role, with advanced education and relevant work experience. They meet or exceed all hard requirements and have impressive strengths in ML frameworks, research, and technical skills. Some gaps exist in cloud and CI/CD experience but are likely addressable.\",\n  \"filtered_out\": false\n}\n\nThe candidate passes all hard requirements, having more than the minimum education (Ph.D. vs Bachelor's) and showcasing the required Python and machine learning skills. Their 5+ years of ML experience at increasing levels of seniority also meets the experience criteria.\n\nThe very high match score reflects the candidate's strong qualifications, research background, and specific expertise with key tools like TensorFlow, PyTorch, CUDA, SQL and Docker. I noted some potential gaps in cloud, CI/CD pipelines and API design, but these are relatively minor given the candidate's other strengths.\n\nOverall, this candidate should definitely move forward in the recruiting process. Their skills and experience make them a promising fit for the senior-level machine learning engineer position.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume4",
+        "a_output": {
+          "extracted_text": "Here is the key information extracted from the resume in the specified JSON format:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"Go\",\n    \"Terraform\",\n    \"AWS\",\n    \"Docker\", \n    \"Kubernetes\",\n    \"Helm\",\n    \"GitLab CI/CD\",\n    \"Jenkins\",\n    \"Airflow\",\n    \"Kubeflow\",\n    \"MLflow\",\n    \"Prometheus\",\n    \"Grafana\",\n    \"Linux\",\n    \"Bash\"\n  ],\n  \"soft_skills\": [\n    \"Cross-team Collaboration\",\n    \"Technical Documentation\",\n    \"Problem Solving\", \n    \"Mentoring\",\n    \"Process Improvement\"\n  ],\n  \"education\": [\n    \"Bachelor of Science in Computer Engineering, University of Michigan\"\n  ],\n  \"experience\": [\n    \"Senior MLOps Engineer at AI Platform Systems\",\n    \"DevOps Engineer at CloudSphere Technologies\",\n    \"Infrastructure Engineer at Enterprise Systems Corp\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate's match to the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"strengths\": [\n    \"Strong proficiency in Python and experience with AWS cloud\",\n    \"Experience with Docker, Kubernetes, and CI/CD pipelines\", \n    \"Knowledge of software engineering principles\",\n    \"5+ total years of software engineering experience\"\n  ],\n  \"gaps\": [\n    \"Job prefers Master's degree\",\n    \"Specific years of ML/AI experience not clearly listed\",\n    \"Experience with ML frameworks like TensorFlow/PyTorch not mentioned\"\n  ],\n  \"overall_assessment\": \"The candidate is a strong match for the Senior Machine Learning Engineer role, meeting all hard requirements and possessing relevant skills and experience in Python, AWS, DevOps, and software engineering. Some gaps exist around advanced degree and specific ML/AI expertise.\",\n  \"filtered_out\": false\n}\n\nThe candidate meets all stated hard requirements for minimum education (Bachelor's degree), years of experience (5+), and key technical skills (Python). They demonstrate several strengths aligned with the job description.\n\nA few gaps exist in terms of preferred qualifications like having a Master's degree and deep expertise in ML frameworks, but these do not appear to be hard requirements.\n\nOverall, this candidate should progress to the interview round for further evaluation of their machine learning knowledge and suitability for the Senior Machine Learning Engineer position. They have not been filtered out at this stage.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume5",
+        "a_output": {
+          "technical_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Basic Python",
+            "Git",
+            "REST APIs",
+            "SQL",
+            "Basic pandas",
+            "NumPy",
+            "Jupyter Notebooks",
+            "scikit-learn (introductory level)"
+          ],
+          "soft_skills": [
+            "Communication",
+            "Project Management",
+            "Client Relations",
+            "Teamwork",
+            "Problem Solving",
+            "Creative Thinking"
+          ],
+          "education": [
+            "Data Science Bootcamp Certificate",
+            "Web Development Bootcamp",
+            "Bachelor of Arts in Marketing"
+          ],
+          "experience": [
+            "Front-End Developer at WebCreative Studio",
+            "Junior Web Developer at Digital Marketing Solutions",
+            "Marketing Specialist at Brand Innovators"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate's fit for the Senior Machine Learning Engineer role:\n\n{\n  \"meets_requirements\": false,\n  \"match_score\": 30,\n  \"strengths\": [\n    \"Some Python experience\",\n    \"Familiar with basic machine learning libraries like pandas, NumPy, and scikit-learn\",\n    \"Backend web development experience with Node.js, Express, MongoDB\",\n    \"Frontend development skills in HTML, CSS, JavaScript, React\"\n  ],\n  \"gaps\": [\n    \"Lacks 5+ years of software engineering experience\",\n    \"Only has introductory knowledge of machine learning, not 3+ years of ML/AI focus\", \n    \"Missing strong proficiency in Python and experience with key ML frameworks like TensorFlow or PyTorch\",\n    \"No mention of experience with cloud platforms, Docker, Kubernetes, CI/CD pipelines\",\n    \"Lacks a Bachelor's degree in Computer Science or related technical field\"\n  ],\n  \"overall_assessment\": \"The candidate does not meet the core requirements for the Senior Machine Learning Engineer position. While they have some introductory Python and machine learning knowledge, they lack the depth of software engineering and AI/ML experience required. The candidate would be a better fit for a more junior web development or data science role.\",\n  \"filtered_out\": true,\n  \"filter_reason\": \"Does not meet multiple hard requirements, including: 5+ years of software engineering experience, 3+ years ML/AI focus, Bachelor's in Computer Science or related field, and proficiency in key technologies like Python, ML frameworks, and cloud platforms.\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      }
+    ],
+    "final_ranking": []
+  },
+  {
+    "sequence": "A1->B1->C2",
+    "filtered_out": [
+      "resume1",
+      "resume2",
+      "resume3",
+      "resume4",
+      "resume5"
+    ],
+    "candidates": [
+      {
+        "resume_id": "resume1",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "CI/CD",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MongoDB",
+            "Neo4j",
+            "Redis",
+            "Spark",
+            "Kafka",
+            "Airflow"
+          ],
+          "soft_skills": [
+            "Technical Leadership",
+            "Project Management",
+            "Cross-functional Collaboration",
+            "Mentoring",
+            "Agile Development",
+            "Strategic Planning"
+          ],
+          "education": [
+            "Master of Science in Computer Science, Stanford University",
+            "Bachelor of Science in Computer Engineering, University of California, Berkeley"
+          ],
+          "experience": [
+            "Principal Machine Learning Engineer at Quantum AI Solutions",
+            "Senior Machine Learning Engineer at TechNova Inc",
+            "Machine Learning Engineer at DataPulse"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my analysis of the candidate against the job requirements:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 95,\n  \"strengths\": [\n    \"Strong proficiency in Python and multiple ML frameworks (TensorFlow, PyTorch)\",\n    \"Experience with all major cloud platforms (AWS, GCP, Azure)\", \n    \"Knowledge of Docker, Kubernetes, CI/CD pipelines\",\n    \"Familiarity with SQL and NoSQL databases\",\n    \"Experience with REST APIs and GraphQL\",\n    \"Master's degree in Computer Science\",\n    \"Technical leadership and project management experience\"\n  ],\n  \"gaps\": [\n    \"No specific mention of experience with big data tools like Spark and Kafka\"\n  ],\n  \"overall_assessment\": \"The candidate is an excellent fit for the Senior Machine Learning Engineer position, meeting or exceeding all key requirements. Their extensive ML expertise, strong Python and cloud skills, experience with deployment and APIs, and technical leadership capabilities make them a top prospect.\",\n  \"filtered_out\": false\n}\n\nThe candidate meets all the hard requirements, with a Master's degree, proficiency in the required technical skills, and over 5 years of relevant experience as a Machine Learning Engineer. Their skills are an excellent match for the role, with the only potential gap being no specific mention of big data tools like Spark and Kafka, which were nice-to-haves. Overall, this candidate should definitely move forward in the hiring process.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume2",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "JavaScript",
+            "Node.js",
+            "React",
+            "AWS",
+            "GCP",
+            "Docker",
+            "Git",
+            "CI/CD",
+            "Jenkins",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MySQL",
+            "PostgreSQL",
+            "Basic TensorFlow",
+            "scikit-learn",
+            "Data Analysis",
+            "Jupyter",
+            "pandas",
+            "NumPy",
+            "Matplotlib"
+          ],
+          "soft_skills": [
+            "Team Collaboration",
+            "Agile/Scrum",
+            "Technical Documentation",
+            "Stakeholder Communication",
+            "Problem Solving"
+          ],
+          "education": [
+            "Bachelor of Science in Computer Science, University of Washington"
+          ],
+          "experience": [
+            "Senior Software Engineer, Enterprise Solutions",
+            "Software Engineer, TechSphere Inc.",
+            "Full Stack Developer, WebDynamics"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the assessment of the candidate against the job description:\n\n{\n  \"meets_requirements\": false,\n  \"match_score\": 60,\n  \"strengths\": [\n    \"Proficient in Python\", \n    \"Experience with AWS and GCP cloud platforms\",\n    \"Knowledge of Docker and CI/CD pipelines\",\n    \"Familiarity with SQL and REST APIs\",\n    \"Basic knowledge of TensorFlow and scikit-learn\"\n  ],\n  \"gaps\": [\n    \"Lacks 5+ years of overall software engineering experience\", \n    \"Only has basic ML/AI skills, job requires 3+ years of dedicated experience\",\n    \"Missing experience with big data technologies like Spark and Kafka\",\n    \"No mention of Master's degree which is preferred\"\n  ],\n  \"overall_assessment\": \"The candidate has relevant technical skills in Python, cloud, and basic ML, but lacks the depth of machine learning experience and total years of software engineering required for a senior-level ML engineer position.\",\n  \"filtered_out\": true,\n  \"filter_reason\": \"Does not meet minimum requirement of 5+ years software engineering experience and 3+ years ML/AI experience.\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume3",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "scikit-learn",
+            "C++",
+            "Julia",
+            "Git",
+            "Linux",
+            "CUDA",
+            "Docker",
+            "SQL",
+            "AWS (basic)"
+          ],
+          "soft_skills": [
+            "Research Methodology",
+            "Technical Writing",
+            "Problem Solving",
+            "Analytical Thinking",
+            "Scientific Communication"
+          ],
+          "education": [
+            "Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University",
+            "Master of Science in Computer Science, University of Illinois Urbana-Champaign",
+            "Bachelor of Science in Computer Engineering, University of Texas at Austin"
+          ],
+          "experience": [
+            "Senior Machine Learning Engineer, Vision Technologies",
+            "Research Scientist, AI Research Lab",
+            "Machine Learning Intern, DataScience Inc."
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the assessment of the candidate based on their resume keywords and the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"strengths\": [\n    \"Strong proficiency in Python and ML frameworks (TensorFlow, PyTorch)\",\n    \"Experience with machine learning model development and deployment\",\n    \"Familiarity with cloud platforms, Docker, and SQL\",\n    \"Ph.D. in Computer Science with specialization in Machine Learning\",\n    \"Relevant work experience as Senior Machine Learning Engineer and Research Scientist\"\n  ],\n  \"gaps\": [\n    \"No explicit mention of experience with CI/CD pipelines\",\n    \"Missing experience with distributed systems and big data technologies (Spark, Kafka)\",\n    \"Bachelor's degree is in Computer Engineering, not Computer Science\"\n  ],\n  \"overall_assessment\": \"The candidate is a strong fit for the Senior Machine Learning Engineer role, with expertise in Python, ML frameworks, and model deployment. They meet all hard requirements and bring relevant education and work experience. Minor gaps in CI/CD and big data technologies.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume4",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "Go",
+            "Terraform",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Helm",
+            "GitLab CI/CD",
+            "Jenkins",
+            "Airflow",
+            "Kubeflow",
+            "MLflow",
+            "Prometheus",
+            "Grafana",
+            "Linux",
+            "Bash"
+          ],
+          "soft_skills": [
+            "Cross-team Collaboration",
+            "Technical Documentation",
+            "Problem Solving",
+            "Mentoring",
+            "Process Improvement"
+          ],
+          "education": [
+            "Bachelor of Science in Computer Engineering, University of Michigan"
+          ],
+          "experience": [
+            "Designed and implemented enterprise ML platform serving 50+ data scientists across organization",
+            "Built scalable Kubernetes-based infrastructure for ML model training and serving with 99.9% availability",
+            "Reduced model deployment time from weeks to hours through automated CI/CD pipelines",
+            "Implemented comprehensive monitoring for ML systems detecting model drift and performance degradation",
+            "Created cost optimization systems reducing cloud expenditure by 35% while maintaining performance",
+            "Automated infrastructure provisioning with Terraform and CloudFormation",
+            "Built containerized microservices architecture using Docker and Kubernetes",
+            "Developed CI/CD pipelines for application deployment across multiple environments"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate against the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"strengths\": [\n    \"Strong proficiency in Python and experience with ML frameworks\",\n    \"Experience deploying ML models at scale using cloud technologies\", \n    \"Knowledge of Docker, Kubernetes, CI/CD pipelines\",\n    \"Experience optimizing ML systems for performance and scalability\",\n    \"Experience with data pipelines and large volumes of data\",\n    \"Meets education and years of experience requirements\"\n  ],\n  \"gaps\": [\n    \"Job prefers Master's degree\",\n    \"No mentioned experience with specific cloud platform (AWS, GCP, Azure)\", \n    \"Doesn't specify knowledge of SQL/NoSQL databases\",\n    \"Lacks nice-to-haves like big data tech, front-end, open-source contributions\"\n  ],\n  \"overall_assessment\": \"The candidate is a very strong match for the Senior Machine Learning Engineer position, meeting or exceeding most of the core requirements. They have extensive experience developing and deploying ML models at scale using relevant technologies. A few nice-to-haves are lacking, but the fundamental skills are well-aligned.\",\n  \"filtered_out\": false\n}\n\nThe candidate meets all the hard requirements of a Bachelor's degree, 5+ years of software engineering experience with 3+ years in ML/AI, and proficiency in Python and ML frameworks. The match score is high at 90 given the close alignment of skills and experience. No red flags that would cause them to be filtered out at this stage. Some gaps to potentially probe further, but overall a promising applicant worth moving forward.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume5",
+        "a_output": {
+          "technical_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Basic Python",
+            "Git",
+            "REST APIs",
+            "SQL",
+            "Basic pandas",
+            "NumPy",
+            "Jupyter Notebooks",
+            "scikit-learn (introductory level)"
+          ],
+          "soft_skills": [
+            "Communication",
+            "Project Management",
+            "Client Relations",
+            "Teamwork",
+            "Problem Solving",
+            "Creative Thinking"
+          ],
+          "education": [
+            "Data Science Bootcamp Certificate",
+            "Web Development Bootcamp",
+            "Bachelor of Arts in Marketing"
+          ],
+          "experience": [
+            "Front-End Developer at WebCreative Studio",
+            "Junior Web Developer at Digital Marketing Solutions",
+            "Marketing Specialist at Brand Innovators"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate for the Senior Machine Learning Engineer role:\n\n{\n  \"meets_requirements\": false,\n  \"match_score\": 40,\n  \"strengths\": [\n    \"Proficient in Python\",\n    \"Some experience with ML libraries like scikit-learn\",\n    \"Familiar with SQL\",\n    \"Knowledge of REST APIs\"\n  ],\n  \"gaps\": [\n    \"Lacks 5+ years of software engineering experience\",\n    \"Lacks 3+ years of ML/AI focused experience\", \n    \"No mention of experience with TensorFlow or PyTorch\",\n    \"No experience with cloud platforms mentioned\",\n    \"No experience with Docker, Kubernetes, or CI/CD pipelines\",\n    \"Education is below preferred Master's degree level\"\n  ],\n  \"overall_assessment\": \"The candidate has some relevant technical skills like Python and basic ML, but lacks the depth and breadth of experience required for a senior-level ML engineering role.\",\n  \"filtered_out\": true,\n  \"filter_reason\": \"Does not meet multiple hard requirements: 5+ years of software engineering experience, 3+ years of ML/AI experience, and preferred Master's degree education.\"\n}\n\nThe candidate should be filtered out as they do not meet several key requirements for the Senior Machine Learning Engineer position. The resume suggests more of an entry-level web development and data science background, rather than significant experience as a senior-level ML engineer.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      }
+    ],
+    "final_ranking": []
+  },
+  {
+    "sequence": "A1->B2->C1",
+    "filtered_out": [
+      "resume1",
+      "resume2",
+      "resume3",
+      "resume4",
+      "resume5"
+    ],
+    "candidates": [
+      {
+        "resume_id": "resume1",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "CI/CD",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MongoDB",
+            "Neo4j",
+            "Redis",
+            "Spark",
+            "Kafka",
+            "Airflow"
+          ],
+          "soft_skills": [
+            "Technical Leadership",
+            "Project Management",
+            "Cross-functional Collaboration",
+            "Mentoring",
+            "Agile Development",
+            "Strategic Planning"
+          ],
+          "education": [
+            "Master of Science in Computer Science, Stanford University",
+            "Bachelor of Science in Computer Engineering, University of California, Berkeley"
+          ],
+          "experience": [
+            "Principal Machine Learning Engineer at Quantum AI Solutions",
+            "Senior Machine Learning Engineer at TechNova Inc",
+            "Machine Learning Engineer at DataPulse"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in JSON format:\n\n{\n    \"meets_requirements\": true,\n    \"match_score\": 95,\n    \"requirement_analysis\": [\n        {\n            \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n            \"met\": true,\n            \"evidence\": \"Candidate has a Master of Science in Computer Science from Stanford University and Bachelor of Science in Computer Engineering from UC Berkeley\"\n        },\n        {\n            \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n            \"met\": true,\n            \"evidence\": \"Candidate has held senior and principal machine learning engineer roles, demonstrating 5+ years of relevant experience\"\n        },\n        {\n            \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n            \"met\": true, \n            \"evidence\": \"Python, TensorFlow, PyTorch listed in technical skills\"\n        },\n        {\n            \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n            \"met\": true,\n            \"evidence\": \"AWS, GCP, Azure listed in technical skills\"  \n        },\n        {\n            \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n            \"met\": true,\n            \"evidence\": \"Docker, Kubernetes, CI/CD listed in technical skills\"\n        },\n        {\n            \"requirement\": \"Familiarity with SQL and NoSQL databases\", \n            \"met\": true,\n            \"evidence\": \"SQL, MongoDB, Neo4j, Redis listed in technical skills\"\n        }\n    ],\n    \"key_strengths\": [\n        \"Extensive experience in senior machine learning engineering roles\",\n        \"Strong academic background with MS in Computer Science from top university\", \n        \"Proficient in a wide range of ML technologies and frameworks\",\n        \"Experience with cloud platforms, DevOps, databases, big data tools\",\n        \"Leadership, mentoring and project management skills\"\n    ],\n    \"key_gaps\": [\n        \"No specific mention of experience with RESTful API design and implementation\",\n        \"Familiarity with front-end frameworks like React not explicitly listed\"\n    ],\n    \"suitability_assessment\": \"The candidate is an excellent match for the Senior Machine Learning Engineer position. They have a very strong technical background, with 5+ years of experience in progressively senior ML engineering roles at leading companies. Their MS in CS from Stanford and BS from Berkeley demonstrate their academic aptitude. They are proficient in key required skills like Python, ML frameworks, cloud platforms, Docker, Kubernetes, databases and big data tools. The candidate also brings valuable leadership, mentoring, project management and collaboration skills. The only minor gaps are no specific mention of REST API or front-end framework experience, but these are relatively easy to pick up given their overall technical depth. Overall, the candidate ranks very highly on the match score and is an outstanding fit for the role.\",\n    \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume2",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "JavaScript",
+            "Node.js",
+            "React",
+            "AWS",
+            "GCP",
+            "Docker",
+            "Git",
+            "CI/CD",
+            "Jenkins",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MySQL",
+            "PostgreSQL",
+            "Basic TensorFlow",
+            "scikit-learn",
+            "Data Analysis",
+            "Jupyter",
+            "pandas",
+            "NumPy",
+            "Matplotlib"
+          ],
+          "soft_skills": [
+            "Team Collaboration",
+            "Agile/Scrum",
+            "Technical Documentation",
+            "Stakeholder Communication",
+            "Problem Solving"
+          ],
+          "education": [
+            "Bachelor of Science in Computer Science, University of Washington"
+          ],
+          "experience": [
+            "Senior Software Engineer, Enterprise Solutions",
+            "Software Engineer, TechSphere Inc.",
+            "Full Stack Developer, WebDynamics"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the evaluation of the candidate in JSON format:\n\n{\n    \"meets_requirements\": false,\n    \"match_score\": 55,\n    \"requirement_analysis\": [\n        {\n            \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field\",\n            \"met\": true,\n            \"evidence\": \"Bachelor of Science in Computer Science, University of Washington\"\n        },\n        {\n            \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\",\n            \"met\": false,\n            \"evidence\": \"Candidate has software engineering experience but no specific ML/AI experience mentioned\"\n        },\n        {\n            \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n            \"met\": false,\n            \"evidence\": \"Candidate lists Python and basic TensorFlow but no PyTorch or strong ML proficiency\"  \n        },\n        {\n            \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n            \"met\": true,\n            \"evidence\": \"AWS, GCP listed in technical skills\"\n        },\n        {\n            \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\", \n            \"met\": false,\n            \"evidence\": \"Docker and CI/CD mentioned but no Kubernetes\"\n        },\n        {\n            \"requirement\": \"Familiarity with SQL and NoSQL databases\",\n            \"met\": true, \n            \"evidence\": \"SQL, MySQL, PostgreSQL listed in technical skills\"\n        }\n    ],\n    \"key_strengths\": [\n        \"Strong general software engineering background\",\n        \"Familiarity with cloud platforms AWS and GCP\",\n        \"Experience with SQL and NoSQL databases\", \n        \"Knowledge of CI/CD, REST APIs, React frontend framework\"\n    ],\n    \"key_gaps\": [\n        \"Lacks 5+ years overall software engineering experience and 3+ years ML/AI specific experience\",\n        \"Missing strong proficiency with core ML frameworks like TensorFlow and PyTorch\",\n        \"No mention of experience with Kubernetes or other key tools like Spark and Kafka\"\n    ],\n    \"suitability_assessment\": \"While the candidate has a relevant computer science degree and general software engineering skills, they do not meet the minimum experience requirements for a senior-level machine learning engineering role. The candidate is missing several years of both overall software engineering experience and specific experience focused on ML/AI development. They are also lacking strong proficiency with core ML frameworks and tools that are required for this position. Therefore, despite some matching skills, the candidate is not a strong fit for the senior machine learning engineer role as described.\",\n    \"filtered_out\": true,\n    \"filter_reason\": \"Candidate does not meet the hard requirement of 5+ years of software engineering experience with at least 3 years in ML/AI.\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume3",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "scikit-learn",
+            "C++",
+            "Julia",
+            "Git",
+            "Linux",
+            "CUDA",
+            "Docker",
+            "SQL",
+            "AWS (basic)"
+          ],
+          "soft_skills": [
+            "Research Methodology",
+            "Technical Writing",
+            "Problem Solving",
+            "Analytical Thinking",
+            "Scientific Communication"
+          ],
+          "education": [
+            "Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University",
+            "Master of Science in Computer Science, University of Illinois Urbana-Champaign",
+            "Bachelor of Science in Computer Engineering, University of Texas at Austin"
+          ],
+          "experience": [
+            "Senior Machine Learning Engineer at Vision Technologies",
+            "Research Scientist at AI Research Lab",
+            "Machine Learning Intern at DataScience Inc."
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the evaluation of the candidate in the requested JSON format:\n\n{\n    \"meets_requirements\": true,\n    \"match_score\": 90,\n    \"requirement_analysis\": [\n        {\n            \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n            \"met\": true,\n            \"evidence\": \"Candidate has Ph.D. in Computer Science (Machine Learning) from Carnegie Mellon, exceeding the education requirements\"\n        },\n        {\n            \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n            \"met\": true,\n            \"evidence\": \"Candidate has held Senior Machine Learning Engineer and Research Scientist roles showing 5+ years of relevant experience\"\n        },\n        {\n            \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n            \"met\": true, \n            \"evidence\": \"Python, TensorFlow and PyTorch are listed in the candidate's technical skills\"\n        },\n        {\n            \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n            \"met\": true,\n            \"evidence\": \"Candidate lists basic AWS skills, meeting the requirement\"\n        },\n        {\n            \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n            \"met\": true,\n            \"evidence\": \"Docker is included in the candidate's technical skills\"\n        },\n        {\n            \"requirement\": \"Familiarity with SQL and NoSQL databases\",\n            \"met\": true,\n            \"evidence\": \"SQL is listed in the candidate's technical skills\"\n        }\n    ],\n    \"key_strengths\": [\n        \"Ph.D. in Computer Science (Machine Learning) from a top school\",\n        \"Experience with cutting-edge ML frameworks like JAX\", \n        \"Strong research background with roles like Research Scientist\",\n        \"Proficiency in multiple programming languages like Python, C++, Julia\",\n        \"Knowledge of CUDA for GPU programming\"\n    ],\n    \"key_gaps\": [\n        \"No mention of experience with RESTful API design and implementation\",\n        \"Kubernetes and CI/CD pipelines not explicitly listed in skills\",\n        \"NoSQL databases not mentioned\"\n    ],\n    \"suitability_assessment\": \"The candidate is a strong fit for the Senior Machine Learning Engineer position, meeting or exceeding all hard requirements. Their advanced degree in Computer Science with a specialization in Machine Learning, combined with 5+ years of experience in ML engineering roles, demonstrates the technical expertise needed. The candidate is proficient in key skills like Python and ML frameworks, with experience in cloud platforms, Docker, and SQL databases. Notable strengths include their Ph.D. from Carnegie Mellon, research background, and knowledge of advanced tools like JAX and CUDA. While some specific skills like RESTful APIs and Kubernetes are not explicitly listed, the candidate's overall qualifications suggest they would excel in this role and pick up any gaps quickly.\",\n    \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume4",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "Go",
+            "Terraform",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Helm",
+            "GitLab CI/CD",
+            "Jenkins",
+            "Airflow",
+            "Kubeflow",
+            "MLflow",
+            "Prometheus",
+            "Grafana",
+            "Linux",
+            "Bash"
+          ],
+          "soft_skills": [
+            "Cross-team Collaboration",
+            "Technical Documentation",
+            "Problem Solving",
+            "Mentoring",
+            "Process Improvement"
+          ],
+          "education": [
+            "Bachelor of Science in Computer Engineering, University of Michigan"
+          ],
+          "experience": [
+            "Designed and implemented enterprise ML platform",
+            "Built scalable Kubernetes-based infrastructure for ML model training and serving",
+            "Reduced model deployment time through automated CI/CD pipelines",
+            "Implemented comprehensive monitoring for ML systems",
+            "Created cost optimization systems",
+            "Automated infrastructure provisioning with Terraform and CloudFormation",
+            "Built containerized microservices architecture using Docker and Kubernetes",
+            "Developed CI/CD pipelines for application deployment",
+            "Managed cloud infrastructure on AWS and Google Cloud Platform"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in JSON format:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 85,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field\",\n      \"met\": true,\n      \"evidence\": \"Bachelor of Science in Computer Engineering, University of Michigan\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\",\n      \"met\": true,\n      \"evidence\": \"Experience deploying ML models and infrastructure at scale (implementation of ML platforms, pipelines, monitoring systems, etc.)\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n      \"met\": true,\n      \"evidence\": \"Python proficiency listed in technical skills\"\n    },\n    {\n      \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\", \n      \"met\": true,\n      \"evidence\": \"Experience with AWS and Google Cloud Platform\"\n    },\n    {\n      \"requirement\": \"Knowledge of data structures, algorithms, and software design principles\",\n      \"met\": true,\n      \"evidence\": \"Demonstrated through experience building scalable ML infrastructure and deployment pipelines\"\n    },\n    {\n      \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n      \"met\": true,\n      \"evidence\": \"Experience with Docker, Kubernetes, Helm, GitLab CI/CD, Jenkins\"  \n    }\n  ],\n  \"key_strengths\": [\n    \"Extensive experience deploying ML systems in production using cloud platforms, containerization, and CI/CD\",\n    \"Strong infrastructure-as-code skills with Terraform\", \n    \"Background building automated ML platforms and pipelines\",\n    \"Expertise in monitoring ML system performance using Prometheus and Grafana\",\n    \"Experience with cost optimization for cloud ML workloads\"\n  ],\n  \"key_gaps\": [\n    \"No mention of experience with SQL/NoSQL databases\",\n    \"Missing experience with RESTful API design and implementation\"\n  ],\n  \"suitability_assessment\": \"The candidate is a strong fit for the Senior Machine Learning Engineer position. They have the required educational background in computer engineering and over 5 years of highly relevant experience deploying machine learning systems in production environments. The candidate's proficiency in Python, cloud platforms, Docker, Kubernetes, and CI/CD aligns very well with the core requirements. Additionally, their experience building automated ML platforms, optimizing infrastructure costs, and implementing ML monitoring systems would enable them to have an immediate positive impact. While the candidate may lack some experience with databases and APIs, these are relatively minor gaps given the seniority of the role and their clear expertise in the most critical areas.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume5",
+        "a_output": {
+          "technical_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Basic Python",
+            "Git",
+            "REST APIs",
+            "SQL",
+            "Basic pandas",
+            "NumPy",
+            "Jupyter Notebooks",
+            "scikit-learn (introductory level)"
+          ],
+          "soft_skills": [
+            "Communication",
+            "Project Management",
+            "Client Relations",
+            "Teamwork",
+            "Problem Solving",
+            "Creative Thinking"
+          ],
+          "education": [
+            "Data Science Bootcamp Certificate",
+            "Web Development Bootcamp",
+            "Bachelor of Arts in Marketing"
+          ],
+          "experience": [
+            "Developing responsive websites using React",
+            "Implementing progressive web applications",
+            "Optimizing website performance",
+            "Integrating basic data analytics dashboards",
+            "Building and maintaining WordPress websites",
+            "Implementing SEO best practices",
+            "Conducting A/B testing",
+            "Executing digital marketing campaigns",
+            "Analyzing campaign performance using Google Analytics"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in JSON format:\n\n{\n  \"meets_requirements\": false,\n  \"match_score\": 30,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n      \"met\": false,\n      \"evidence\": \"Candidate has a Bachelor of Arts in Marketing and bootcamp certificates, but no CS or Engineering degree\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n      \"met\": false,\n      \"evidence\": \"Candidate has web development and digital marketing experience but no mention of 5+ years of software engineering or 3+ years of ML/AI experience\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n      \"met\": false, \n      \"evidence\": \"Candidate lists only basic Python skills and introductory scikit-learn, with no mention of TensorFlow or PyTorch\"\n    },\n    {\n      \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n      \"met\": false,\n      \"evidence\": \"No mention of any cloud platform experience in the candidate's profile\"\n    }\n  ],\n  \"key_strengths\": [\n    \"Web development experience with React, Node.js, MongoDB\",\n    \"Knowledge of REST APIs, SQL databases, and basic pandas/NumPy/Jupyter\",\n    \"Digital marketing and data analytics experience\"\n  ],\n  \"key_gaps\": [\n    \"Lacks required Computer Science or Engineering degree\",\n    \"Insufficient years of software engineering and ML/AI experience\", \n    \"Missing proficiency in core ML tools like Python, TensorFlow, PyTorch\",\n    \"No experience with cloud platforms and infrastructure\",\n    \"Limited exposure to advanced ML/data engineering concepts\"\n  ],\n  \"suitability_assessment\": \"The candidate has a background in web development and data analytics, but lacks the core software engineering and machine learning experience required for the Senior Machine Learning Engineer position. They do not meet several key requirements, including the necessary educational background, years of relevant experience, and proficiency in essential ML tools and platforms. The candidate's current skill set is more suited to a web development or analytics role rather than an advanced machine learning position.\",\n  \"filtered_out\": true,\n  \"filter_reason\": \"Candidate does not meet multiple hard requirements, including required degree, years of experience, and technical skills.\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      }
+    ],
+    "final_ranking": []
+  },
+  {
+    "sequence": "A1->B2->C2",
+    "filtered_out": [
+      "resume1",
+      "resume2",
+      "resume3",
+      "resume4",
+      "resume5"
+    ],
+    "candidates": [
+      {
+        "resume_id": "resume1",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "CI/CD",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MongoDB",
+            "Neo4j",
+            "Redis",
+            "Spark",
+            "Kafka",
+            "Airflow"
+          ],
+          "soft_skills": [
+            "Technical Leadership",
+            "Project Management",
+            "Cross-functional Collaboration",
+            "Mentoring",
+            "Agile Development",
+            "Strategic Planning"
+          ],
+          "education": [
+            "Master of Science in Computer Science, Stanford University",
+            "Bachelor of Science in Computer Engineering, University of California, Berkeley"
+          ],
+          "experience": [
+            "Principal Machine Learning Engineer at Quantum AI Solutions",
+            "Senior Machine Learning Engineer at TechNova Inc",
+            "Machine Learning Engineer at DataPulse"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the evaluation of the candidate in JSON format:\n\n{\n    \"meets_requirements\": true,\n    \"match_score\": 95,\n    \"requirement_analysis\": [\n        {\n            \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n            \"met\": true,\n            \"evidence\": \"Master of Science in Computer Science, Stanford University; Bachelor of Science in Computer Engineering, University of California, Berkeley\"\n        },\n        {\n            \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n            \"met\": true,\n            \"evidence\": \"Principal Machine Learning Engineer at Quantum AI Solutions, Senior Machine Learning Engineer at TechNova Inc, Machine Learning Engineer at DataPulse\"\n        },\n        {\n            \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n            \"met\": true, \n            \"evidence\": \"Python, TensorFlow, PyTorch\"\n        },\n        {\n            \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n            \"met\": true,\n            \"evidence\": \"AWS, GCP, Azure\"  \n        },\n        {\n            \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n            \"met\": true,\n            \"evidence\": \"Docker, Kubernetes, Git, CI/CD\"\n        },\n        {\n            \"requirement\": \"Familiarity with SQL and NoSQL databases\",\n            \"met\": true,\n            \"evidence\": \"SQL, MongoDB, Neo4j, Redis\"\n        },\n        {\n            \"requirement\": \"Experience with RESTful API design and implementation\",\n            \"met\": true,\n            \"evidence\": \"REST APIs, GraphQL\"\n        }\n    ],\n    \"key_strengths\": [\n        \"Expertise in a wide range of ML frameworks and libraries including TensorFlow, PyTorch, and JAX\",\n        \"Extensive experience with cloud platforms AWS, GCP and Azure\",\n        \"Strong background in databases, both SQL and NoSQL\",\n        \"Experience with big data and stream processing technologies like Spark, Kafka, Airflow\",\n        \"Leadership skills including mentoring, project management, cross-functional collaboration\"\n    ],\n    \"key_gaps\": [],\n    \"suitability_assessment\": \"The candidate is an outstanding match for the Senior Machine Learning Engineer role. They meet or exceed all the core requirements, with a Master's degree from a top university, 5+ years of highly relevant experience across leading companies, and deep expertise in the key skills like Python, ML frameworks, cloud, data engineering, and APIs. Beyond the core requirements, they bring valuable experience in big data technologies, databases, and technical leadership. Overall, this candidate is highly qualified and should be considered a top prospect for the role.\",\n    \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume2",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "JavaScript",
+            "Node.js",
+            "React",
+            "AWS",
+            "GCP",
+            "Docker",
+            "Git",
+            "CI/CD",
+            "Jenkins",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MySQL",
+            "PostgreSQL",
+            "Basic TensorFlow",
+            "scikit-learn",
+            "Data Analysis",
+            "Jupyter",
+            "pandas",
+            "NumPy",
+            "Matplotlib"
+          ],
+          "soft_skills": [
+            "Team Collaboration",
+            "Agile/Scrum",
+            "Technical Documentation",
+            "Stakeholder Communication",
+            "Problem Solving"
+          ],
+          "education": [
+            "Bachelor of Science in Computer Science, University of Washington"
+          ],
+          "experience": [
+            "Led migration of legacy systems to cloud-native architecture, reducing operational costs by 45%",
+            "Implemented automated CI/CD pipelines reducing deployment time from days to hours",
+            "Integrated machine learning models into production applications for customer segmentation",
+            "Developed RESTful and GraphQL APIs serving 20M+ requests daily with 99.99% uptime",
+            "Mentored junior developers on software engineering best practices and cloud technologies",
+            "Built scalable backend services using Python and Node.js for SaaS platform with 100K+ users",
+            "Collaborated with data scientists to deploy ML models for business intelligence dashboards"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the evaluation of the candidate in the requested JSON format:\n\n```json\n{\n    \"meets_requirements\": false,\n    \"match_score\": 60,\n    \"requirement_analysis\": [\n        {\n            \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n            \"met\": true,\n            \"evidence\": \"Bachelor of Science in Computer Science, University of Washington\"\n        },\n        {\n            \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n            \"met\": false,\n            \"evidence\": \"Candidate's experience highlights general software engineering but lacks specifics around 3+ years of ML/AI focus\"\n        },\n        {\n            \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n            \"met\": false, \n            \"evidence\": \"Lists Python and Basic TensorFlow but no mention of PyTorch or strong ML framework experience\"\n        },\n        {\n            \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n            \"met\": true,\n            \"evidence\": \"Mentions Docker, CI/CD, Jenkins in technical skills\"\n        }\n    ],\n    \"key_strengths\": [\n        \"Strong general software engineering experience with Python, cloud, APIs, databases\",\n        \"Experience mentoring junior developers and collaborating with data scientists\",\n        \"Track record of migrating to cloud, building CI/CD pipelines, deploying models\"\n    ],\n    \"key_gaps\": [\n        \"Lacks 3+ years of focused ML/AI engineering experience\", \n        \"Missing strong expertise with key ML frameworks beyond basic TensorFlow\",\n        \"No mention of skills like distributed systems, big data tech, infrastructure as code\"\n    ],\n    \"suitability_assessment\": \"While the candidate has a strong foundation in software engineering and some exposure to ML deployments, they do not meet the key requirement of 5+ years experience with 3+ years ML/AI focus. The depth of ML framework knowledge also appears lacking for a senior ML engineer position. Relevant experience with model deployment and general DevOps practices are helpful, but not sufficient to overcome the gaps in AI/ML and the seniority level targeted for this role. The candidate may be a better fit for a mid-level ML engineer or general software engineer position.\",\n    \"filtered_out\": true,\n    \"filter_reason\": \"Lacks 5+ years of software engineering experience with at least 3 years focused on ML/AI\"\n}\n```",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume3",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "scikit-learn",
+            "C++",
+            "Julia",
+            "Git",
+            "Linux",
+            "CUDA",
+            "Docker",
+            "SQL",
+            "AWS (basic)"
+          ],
+          "soft_skills": [
+            "Research Methodology",
+            "Technical Writing",
+            "Problem Solving",
+            "Analytical Thinking",
+            "Scientific Communication"
+          ],
+          "education": [
+            "Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University",
+            "Master of Science in Computer Science, University of Illinois Urbana-Champaign",
+            "Bachelor of Science in Computer Engineering, University of Texas at Austin"
+          ],
+          "experience": [
+            "Senior Machine Learning Engineer, Vision Technologies",
+            "Research Scientist, AI Research Lab",
+            "Machine Learning Intern, DataScience Inc."
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the evaluation of the candidate in JSON format:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n      \"met\": true,\n      \"evidence\": \"Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University; Master of Science in Computer Science, University of Illinois Urbana-Champaign; Bachelor of Science in Computer Engineering, University of Texas at Austin\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n      \"met\": true,\n      \"evidence\": \"Senior Machine Learning Engineer, Vision Technologies; Research Scientist, AI Research Lab; Machine Learning Intern, DataScience Inc.\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n      \"met\": true,\n      \"evidence\": \"Technical skills include Python, TensorFlow, PyTorch, JAX, scikit-learn\"\n    },\n    {\n      \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n      \"met\": true,\n      \"evidence\": \"AWS (basic) included in technical skills\"\n    },\n    {\n      \"requirement\": \"Knowledge of data structures, algorithms, and software design principles\",\n      \"met\": true,\n      \"evidence\": \"Ph.D. in Computer Science and relevant work experience demonstrate required knowledge\" \n    },\n    {\n      \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n      \"met\": true,\n      \"evidence\": \"Docker included in technical skills\"\n    },\n    {\n      \"requirement\": \"Familiarity with SQL and NoSQL databases\",\n      \"met\": true,\n      \"evidence\": \"SQL included in technical skills\"\n    }\n  ],\n  \"key_strengths\": [\n    \"Ph.D. in Computer Science (Machine Learning) from top university\",\n    \"Extensive AI/ML experience including senior engineering role\",\n    \"Proficiency in key technical skills like Python, ML frameworks, cloud, Docker, SQL\",\n    \"Strong research background and analytical mindset\"\n  ],\n  \"key_gaps\": [\n    \"Experience with RESTful APIs not explicitly mentioned\",\n    \"Kubernetes and CI/CD experience unclear\",\n    \"No clear experience with NoSQL databases\"\n  ],\n  \"suitability_assessment\": \"The candidate is a strong fit for the Senior Machine Learning Engineer position. They meet or exceed all hard requirements, including education, years of experience, and key technical skills. Their Ph.D. in Machine Learning and experience as a Senior ML Engineer demonstrate an advanced level of expertise. The candidate's research background and proficiency with cutting-edge ML frameworks would enable them to bring innovative solutions. Although a few preferred qualifications are not clearly evidenced, the candidate's core strengths align very well with the role and they have the capability to learn any missing skills.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume4",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "Go",
+            "Terraform",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Helm",
+            "GitLab CI/CD",
+            "Jenkins",
+            "Airflow",
+            "Kubeflow",
+            "MLflow",
+            "Prometheus",
+            "Grafana",
+            "Linux",
+            "Bash"
+          ],
+          "soft_skills": [
+            "Cross-team Collaboration",
+            "Technical Documentation",
+            "Problem Solving",
+            "Mentoring",
+            "Process Improvement"
+          ],
+          "education": [
+            "Bachelor of Science in Computer Engineering, University of Michigan"
+          ],
+          "experience": [
+            "Designed and implemented enterprise ML platform serving 50+ data scientists",
+            "Built scalable Kubernetes-based infrastructure for ML model training and serving",
+            "Reduced model deployment time from weeks to hours through automated CI/CD pipelines",
+            "Implemented comprehensive monitoring for ML systems",
+            "Created cost optimization systems reducing cloud expenditure by 35%",
+            "Automated infrastructure provisioning with Terraform and CloudFormation",
+            "Built containerized microservices architecture using Docker and Kubernetes",
+            "Implemented monitoring and alerting systems using Prometheus and Grafana",
+            "Developed CI/CD pipelines for application deployment",
+            "Managed cloud infrastructure on AWS and Google Cloud Platform"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the evaluation of the candidate in JSON format:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field\",\n      \"met\": true,\n      \"evidence\": \"Bachelor of Science in Computer Engineering, University of Michigan\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\",\n      \"met\": true,\n      \"evidence\": \"Designed and implemented enterprise ML platform serving 50+ data scientists, Built scalable Kubernetes-based infrastructure for ML model training and serving, etc.\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks\",\n      \"met\": true,\n      \"evidence\": \"Python listed as a technical skill\"\n    },\n    {\n      \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n      \"met\": true,\n      \"evidence\": \"AWS listed as a technical skill, Managed cloud infrastructure on AWS and Google Cloud Platform\"\n    },\n    {\n      \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n      \"met\": true,\n      \"evidence\": \"Docker, Kubernetes, GitLab CI/CD, Jenkins listed as technical skills, Built containerized microservices architecture using Docker and Kubernetes, Developed CI/CD pipelines for application deployment\"\n    }\n  ],\n  \"key_strengths\": [\n    \"Extensive experience building and deploying ML systems at scale\",\n    \"Strong expertise in Python and relevant ML frameworks\", \n    \"Deep knowledge of cloud platforms, containerization, and CI/CD\",\n    \"Proven ability to optimize ML system performance and reduce costs\",\n    \"Experience with infrastructure as code and monitoring\"\n  ],\n  \"key_gaps\": [\n    \"Master's degree preferred but not required\",\n    \"Experience with specific tools like TensorFlow/PyTorch, Spark/Kafka not explicitly mentioned\"\n  ],\n  \"suitability_assessment\": \"The candidate is an excellent fit for the Senior Machine Learning Engineer role. They have a strong educational background in Computer Engineering and extensive professional experience building and deploying large-scale machine learning systems. The candidate's technical skills align very well with the job requirements, with expertise in Python, cloud platforms, Docker, Kubernetes, and CI/CD pipelines. They have proven experience optimizing ML system performance, reducing infrastructure costs, and mentoring junior engineers. While a Master's degree and certain specific tools are not explicitly listed, the candidate's overall qualifications and experience make them highly suitable for this senior-level position.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume5",
+        "a_output": {
+          "technical_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Basic Python",
+            "Git",
+            "REST APIs",
+            "SQL",
+            "Basic pandas",
+            "NumPy",
+            "Jupyter Notebooks",
+            "scikit-learn (introductory level)"
+          ],
+          "soft_skills": [
+            "Communication",
+            "Project Management",
+            "Client Relations",
+            "Teamwork",
+            "Problem Solving",
+            "Creative Thinking"
+          ],
+          "education": [
+            "Data Science Bootcamp Certificate",
+            "Web Development Bootcamp",
+            "Bachelor of Arts in Marketing"
+          ],
+          "experience": [
+            "Front-End Developer at WebCreative Studio",
+            "Junior Web Developer at Digital Marketing Solutions",
+            "Marketing Specialist at Brand Innovators"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is the comprehensive evaluation in JSON format:\n\n{\n    \"meets_requirements\": false,\n    \"match_score\": 40,\n    \"requirement_analysis\": [\n        {\n            \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n            \"met\": false,\n            \"evidence\": \"Candidate has a Bachelor of Arts in Marketing and data science/web dev bootcamp certificates, but no CS/Engineering degree\"\n        },\n        {\n            \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\",\n            \"met\": false,\n            \"evidence\": \"Candidate has front-end web dev experience but no indication of 5+ years software engineering or 3+ years ML/AI experience\"\n        },\n        {\n            \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\", \n            \"met\": false,\n            \"evidence\": \"Candidate lists only Basic Python skills and introductory scikit-learn, with no mention of ML frameworks\"\n        },\n        {\n            \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n            \"met\": false,\n            \"evidence\": \"No mention of any cloud platform experience in candidate's profile\"\n        }\n    ],\n    \"key_strengths\": [\n        \"Web development skills in HTML, CSS, JavaScript, React, Node.js, Express\",\n        \"Familiarity with MongoDB, SQL, REST APIs\",\n        \"Some exposure to Python, pandas, NumPy, Jupyter Notebooks, scikit-learn\",\n        \"Soft skills in communication, project management, teamwork, problem solving\"\n    ],\n    \"key_gaps\": [\n        \"Lacks Computer Science/Engineering degree\",\n        \"Insufficient years of experience in software engineering and ML/AI\",\n        \"Limited Python proficiency and no experience with key ML frameworks\", \n        \"Missing cloud platform experience which is critical for the role\",\n        \"No experience with data pipelines, optimizing ML systems, mentoring, or advanced topics like NLP/CV\"\n    ],\n    \"suitability_assessment\": \"While the candidate has promising web development skills and some exposure to data science topics, they do not meet several key requirements for the Senior Machine Learning Engineer position. Their educational background is not in line with the required Computer Science/Engineering degree. More critically, they lack the necessary years of software engineering experience, particularly focused on ML/AI development. The candidate's Python skills are at a basic level, and they do not have the required proficiency with ML frameworks like TensorFlow or PyTorch. Experience with cloud platforms, which is essential for this role, is also missing from their profile. Overall, the candidate's skill set is more aligned with a web development role than a senior-level machine learning position. They would require substantial upskilling and training to meet the demands of this job.\",\n    \"filtered_out\": true,\n    \"filter_reason\": \"Candidate does not meet multiple hard requirements, including required education (CS/Engineering degree), years of experience in software engineering and ML/AI, and proficiency in Python and ML frameworks.\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      }
+    ],
+    "final_ranking": []
+  },
+  {
+    "sequence": "A2->B1->C1",
+    "filtered_out": [
+      "resume1",
+      "resume2",
+      "resume3",
+      "resume4",
+      "resume5"
+    ],
+    "candidates": [
+      {
+        "resume_id": "resume1",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "CI/CD",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MongoDB",
+            "Neo4j",
+            "Redis",
+            "Spark",
+            "Kafka",
+            "Airflow",
+            "Deep Learning",
+            "NLP",
+            "Computer Vision",
+            "Reinforcement Learning",
+            "MLOps",
+            "Feature Engineering",
+            "Neural Architecture Search",
+            "Model Optimization",
+            "Distributed Training"
+          ],
+          "soft_skills": [
+            "Technical Leadership",
+            "Project Management",
+            "Cross-functional Collaboration",
+            "Mentoring",
+            "Agile Development",
+            "Strategic Planning",
+            "Problem Solving",
+            "Communication"
+          ],
+          "education": [
+            "Master of Science in Computer Science, Stanford University (2013-2015), Specialization: Artificial Intelligence and Machine Learning, Thesis: \"Efficient Transformer Architectures for Edge Devices\", GPA: 3.95/4.0",
+            "Bachelor of Science in Computer Engineering, University of California, Berkeley (2009-2013), Minor in Mathematics, Senior Project: \"Distributed Computing for ML Applications\", GPA: 3.8/4.0"
+          ],
+          "experience": [
+            "Principal Machine Learning Engineer at Quantum AI Solutions (Jul 2020 - Present): Led development of computer vision system, architected and deployed enterprise-wide ML platform, designed distributed training pipeline, implemented GitOps practices, mentored ML engineers",
+            "Senior Machine Learning Engineer at TechNova Inc (May 2017 - Jun 2020): Built and deployed NLP models for conversational AI platform, developed machine learning microservices infrastructure, created real-time recommendation system, established ML monitoring systems, collaborated with product teams",
+            "Machine Learning Engineer at DataPulse (Jan 2015 - Apr 2017): Designed and implemented predictive analytics models for financial risk assessment, developed data processing pipelines using Spark, built REST APIs for model serving, collaborated with data engineers"
+          ],
+          "additional_keywords": [
+            "AWS Certified Machine Learning Specialist",
+            "Google Professional Machine Learning Engineer",
+            "Microsoft Certified: Azure AI Engineer Associate",
+            "Contributor to TensorFlow and PyTorch open-source projects",
+            "Published papers at NeurIPS and ICML conferences",
+            "Patent: \"Method for Distributed Training of Large-Scale Neural Networks\""
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate's match to the job requirements:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 95,\n  \"strengths\": [\n    \"Strong proficiency in Python and experience with TensorFlow, PyTorch, and JAX\",\n    \"Experience with cloud platforms AWS, GCP, and Azure\", \n    \"Knowledge of Docker, Kubernetes, CI/CD pipelines\",\n    \"Experience with SQL and NoSQL databases like MongoDB, Neo4j, Redis\",\n    \"Familiarity with big data tools like Spark and Kafka\",\n    \"Expertise in deep learning, NLP, computer vision, and MLOps\",\n    \"Master's degree in Computer Science with AI/ML specialization\",\n    \"8+ years of relevant machine learning engineering experience\",\n    \"Technical leadership and mentoring skills\",\n    \"Contributions to open-source ML projects and published research papers\"\n  ],\n  \"gaps\": [\n    \"No explicit mention of experience with REST API design and implementation\"\n  ],\n  \"overall_assessment\": \"The candidate is an exceptionally strong fit for the Senior Machine Learning Engineer position, exceeding the minimum qualifications in education, years of experience, and technical skills. They bring highly relevant expertise across the ML project lifecycle, from model development to deployment and optimization. The only minor gap is no specific mention of REST API design and implementation.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume2",
+        "a_output": {
+          "extracted_text": "Here is the JSON object with the extracted information from the resume:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"JavaScript\",\n    \"Node.js\",\n    \"React\",\n    \"AWS\",\n    \"GCP\",\n    \"Docker\",\n    \"Git\",\n    \"CI/CD\",\n    \"Jenkins\",\n    \"REST APIs\",\n    \"GraphQL\",\n    \"SQL\",\n    \"MySQL\",\n    \"PostgreSQL\",\n    \"TensorFlow\",\n    \"scikit-learn\",\n    \"Data Analysis\",\n    \"Jupyter\",\n    \"pandas\",\n    \"NumPy\",\n    \"Matplotlib\",\n    \"HTML5\",\n    \"CSS3\",\n    \"D3.js\",\n    \"MongoDB\",\n    \"Terraform\"\n  ],\n  \"soft_skills\": [\n    \"Team Collaboration\",\n    \"Agile/Scrum\",\n    \"Technical Documentation\",\n    \"Stakeholder Communication\",\n    \"Problem Solving\",\n    \"Mentoring\",\n    \"Leadership\"\n  ],\n  \"education\": [\n    \"Bachelor of Science in Computer Science, University of Washington, 2011 - 2015, GPA: 3.6/4.0\"\n  ],\n  \"experience\": [\n    \"Senior Software Engineer, Enterprise Solutions, Mar 2019 - Present\",\n    \"Software Engineer, TechSphere Inc., Jan 2017 - Feb 2019\",\n    \"Full Stack Developer, WebDynamics, Apr 2015 - Dec 2016\"\n  ],\n  \"additional_keywords\": [\n    \"Full-stack development\",\n    \"Machine learning applications\",\n    \"Cloud infrastructure\",\n    \"Legacy systems migration\",\n    \"Operational cost reduction\",\n    \"Automated pipelines\",\n    \"Production deployment\",\n    \"RESTful APIs\",\n    \"GraphQL APIs\",\n    \"Uptime\",\n    \"Mentorship\",\n    \"Best practices\",\n    \"Scalable backend services\",\n    \"SaaS platform\",\n    \"Data scientists collaboration\",\n    \"Business intelligence dashboards\",\n    \"Database architecture\",\n    \"High-volume transactional data\",\n    \"Data visualization\",\n    \"On-call rotation\",\n    \"Production issues\",\n    \"Responsive web applications\",\n    \"Mobile application integration\",\n    \"User authentication\",\n    \"User authorization\",\n    \"Database query optimization\",\n    \"Application performance improvement\",\n    \"UX collaboration\",\n    \"Intuitive user interfaces\",\n    \"Dean's List\",\n    \"Capstone Project\",\n    \"Personal Finance Tracker\",\n    \"Sentiment Analysis Tool\",\n    \"Cloud Infrastructure Automation\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate's keywords against the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"strengths\": [\n    \"Strong proficiency in Python and ML frameworks like TensorFlow\",\n    \"Experience with AWS, GCP cloud platforms\", \n    \"Experience with Docker, CI/CD pipelines, and REST APIs\",\n    \"Knowledge of SQL and databases\",\n    \"5+ years of relevant software engineering experience\",\n    \"Bachelor's degree in Computer Science\"\n  ],\n  \"gaps\": [\n    \"Master's degree preferred but not required\",\n    \"Distributed systems and big data technologies (Spark, Kafka) are nice to have\"\n  ],\n  \"overall_assessment\": \"The candidate is a strong match for the Senior Machine Learning Engineer position, meeting all the core technical requirements and bringing highly relevant skills and experience. Recommended to proceed to interviews.\",\n  \"filtered_out\": false\n}\n\nThe candidate meets all the hard requirements for minimum education, years of experience, and technical skills like Python, ML frameworks, cloud, Docker, CI/CD, APIs and databases. They have a very high match to the job description overall. A couple nice-to-haves are missing like a Master's degree and certain big data technologies, but those are not required. I recommend proceeding with this candidate to the interview stage.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume3",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "scikit-learn",
+            "C++",
+            "Julia",
+            "Git",
+            "Linux",
+            "CUDA",
+            "Docker",
+            "SQL",
+            "AWS (basic)",
+            "Computer Vision",
+            "Bayesian ML",
+            "Generative Models",
+            "Neural Networks",
+            "Transfer Learning",
+            "Model Optimization",
+            "Explainable AI",
+            "Deep Learning",
+            "Machine Learning",
+            "Neural Architecture Search",
+            "Model Compression",
+            "Edge Computing",
+            "Embedded Systems",
+            "Medical Image Analysis",
+            "Data Preprocessing",
+            "Model Interpretability"
+          ],
+          "soft_skills": [
+            "Research Methodology",
+            "Technical Writing",
+            "Problem Solving",
+            "Analytical Thinking",
+            "Scientific Communication",
+            "Mentoring",
+            "Cross-functional Collaboration"
+          ],
+          "education": [
+            "Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University",
+            "Master of Science in Computer Science, University of Illinois Urbana-Champaign",
+            "Bachelor of Science in Computer Engineering, University of Texas at Austin"
+          ],
+          "experience": [
+            "Senior Machine Learning Engineer at Vision Technologies (2021-Present): Developed state-of-the-art computer vision models, designed specialized neural network architectures, implemented ML techniques from research, deployed models in resource-constrained environments, mentored junior data scientists",
+            "Research Scientist at AI Research Lab (2019-2021): Conducted research on efficient deep learning architectures, published papers in top computer vision conferences, built computer vision models, developed tools for model training and evaluation, collaborated to translate research into applications",
+            "Machine Learning Intern at DataScience Inc. (2018): Implemented computer vision algorithms for medical image analysis, designed data preprocessing pipelines, collaborated with medical professionals, created visualization tools for model interpretability"
+          ],
+          "additional_keywords": [
+            "Computer Vision Conferences (CVPR, ICCV)",
+            "Top ML Conferences and Journals",
+            "Teaching Assistant (Machine Learning, Deep Learning, Computer Vision)",
+            "Mathematics Minor",
+            "Open-source ML Libraries",
+            "Neural Network Compression Framework",
+            "Black-box Model Explanation Tools"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate against the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 95,\n  \"strengths\": [\n    \"Ph.D. in Computer Science with specialization in Machine Learning\",\n    \"Strong proficiency in Python and experience with TensorFlow, PyTorch\", \n    \"Expertise in developing state-of-the-art computer vision models\",\n    \"Experience deploying ML models in resource-constrained environments\",\n    \"Knowledge of advanced ML techniques like transfer learning, model optimization, explainable AI\",\n    \"Experience mentoring junior data scientists\",\n    \"Research experience and publications in top ML/CV conferences\"\n  ],\n  \"gaps\": [\n    \"No explicit mention of experience with cloud platforms like AWS, GCP, Azure\",\n    \"Lacks experience with production-level tools like Docker, Kubernetes, CI/CD pipelines\"\n  ],\n  \"overall_assessment\": \"The candidate is an extremely strong match for the Senior Machine Learning Engineer role, greatly exceeding the minimum qualifications. Their Ph.D. and research expertise in ML, along with significant industry experience developing and deploying advanced computer vision models make them highly qualified. A few gaps in production-level tools and cloud technologies, but their core ML abilities are exceptional.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume4",
+        "a_output": {
+          "extracted_text": "Here is the JSON object with the extracted information from the resume:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"Go\",\n    \"Terraform\",\n    \"AWS\",\n    \"Docker\", \n    \"Kubernetes\",\n    \"Helm\",\n    \"GitLab CI/CD\",\n    \"Jenkins\",\n    \"Airflow\",\n    \"Kubeflow\",\n    \"MLflow\",\n    \"Prometheus\",\n    \"Grafana\",\n    \"Linux\",\n    \"Bash\",\n    \"AWS (EKS, S3, EC2, Lambda)\",\n    \"Infrastructure as Code\",\n    \"Microservices Architecture\",\n    \"Service Mesh\",\n    \"Load Balancing\",\n    \"ML Pipeline Automation\",\n    \"Model Serving\",\n    \"A/B Testing Frameworks\",\n    \"Feature Stores\",\n    \"Model Monitoring\",\n    \"Distributed Training\",\n    \"CloudFormation\",\n    \"Google Cloud Platform\"\n  ],\n  \"soft_skills\": [\n    \"Cross-team Collaboration\",\n    \"Technical Documentation\",\n    \"Problem Solving\",\n    \"Mentoring\",\n    \"Process Improvement\"\n  ],\n  \"education\": [\n    \"Bachelor of Science in Computer Engineering, University of Michigan, 2012 - 2016\",\n    \"Minor in Information Science\"\n  ],\n  \"experience\": [\n    \"Senior MLOps Engineer, AI Platform Systems, Apr 2020 - Present\",\n    \"DevOps Engineer, CloudSphere Technologies, Feb 2018 - Mar 2020\", \n    \"Infrastructure Engineer, Enterprise Systems Corp, Jun 2016 - Jan 2018\"\n  ],\n  \"additional_keywords\": [\n    \"MLOps\",\n    \"Infrastructure\",\n    \"Containerization\",\n    \"Orchestration\",\n    \"CI/CD Pipelines\",\n    \"Machine Learning\",\n    \"DevOps\",\n    \"Cloud\",\n    \"Cost Optimization\",\n    \"Production Systems\",\n    \"Certified Kubernetes Administrator (CKA)\",\n    \"AWS Certified DevOps Engineer - Professional\",\n    \"AWS Certified Solutions Architect - Associate\", \n    \"Terraform Associate Certification\",\n    \"Google Professional Cloud Architect\",\n    \"Automated Deployment Systems for Distributed Applications\",\n    \"Open-source\",\n    \"GPU Cluster Management\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate's resume match to the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"strengths\": [\n    \"Strong proficiency in Python and ML frameworks\",\n    \"Experience with AWS cloud platform\", \n    \"Knowledge of Docker, Kubernetes, CI/CD pipelines\",\n    \"Background in deploying ML models at scale\",\n    \"5+ years of relevant software engineering experience\",\n    \"Familiarity with data pipelines and databases\"\n  ],\n  \"gaps\": [\n    \"No explicit mention of Master's degree\",\n    \"Missing React or front-end development experience\"\n  ],\n  \"overall_assessment\": \"The candidate is a very strong match for the Senior Machine Learning Engineer role, meeting or exceeding most of the key requirements. They have extensive experience in ML model development and deployment, and bring highly relevant skills in Python, cloud, and DevOps. Minor gaps in education and front-end can likely be offset by demonstrated expertise.\",\n  \"filtered_out\": false\n}\n\nThe candidate meets all the hard requirements, with 5+ years of software engineering experience, proficiency in the required technical skills like Python and AWS, and a Bachelor's degree in a relevant field. The optional Master's degree is the only slight gap. With a 90% match score, this candidate should definitely move forward to the interview stage. Their ML deployment experience and DevOps skills make them a great fit for the role.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume5",
+        "a_output": {
+          "extracted_text": "Here is the JSON object with the extracted information from the resume:\n\n{\n  \"technical_skills\": [\n    \"HTML\", \n    \"CSS\",\n    \"JavaScript\",\n    \"React\",\n    \"Node.js\",\n    \"Express\",\n    \"MongoDB\",\n    \"Basic Python\",\n    \"Git\",\n    \"REST APIs\",\n    \"SQL\",\n    \"WordPress\",\n    \"jQuery\",\n    \"SEO\",\n    \"A/B Testing\",\n    \"Google Analytics\",\n    \"pandas\",\n    \"NumPy\", \n    \"Jupyter Notebooks\",\n    \"scikit-learn\",\n    \"Chart.js\",\n    \"Matplotlib\",\n    \"Stripe API\"\n  ],\n  \"soft_skills\": [\n    \"Communication\",\n    \"Project Management\", \n    \"Client Relations\",\n    \"Teamwork\",\n    \"Problem Solving\",\n    \"Creative Thinking\",\n    \"Quick Learner\",\n    \"Analytical Skills\",\n    \"Collaboration\",\n    \"Performance Optimization\"\n  ],\n  \"education\": [\n    \"Data Science Bootcamp Certificate - TechBootcamps\",\n    \"Web Development Bootcamp - CodeAcademy Professional\",\n    \"Bachelor of Arts in Marketing - State University\"\n  ],\n  \"experience\": [\n    \"Front-End Developer - WebCreative Studio (Sep 2021 - Present)\",\n    \"Junior Web Developer - Digital Marketing Solutions (Mar 2020 - Aug 2021)\", \n    \"Marketing Specialist - Brand Innovators (Jul 2017 - Feb 2020)\"\n  ],\n  \"additional_keywords\": [\n    \"Machine Learning\",\n    \"Data Science\",\n    \"Web Development\", \n    \"Responsive Design\",\n    \"Progressive Web Applications\",\n    \"User Engagement\",\n    \"UI/UX\",\n    \"Performance Optimization\",\n    \"Digital Marketing\",\n    \"Campaign Analysis\",\n    \"Content Creation\",\n    \"Vendor Management\",\n    \"Reporting\",\n    \"Classification Algorithms\",\n    \"Predictive Modeling\",\n    \"E-commerce\",\n    \"Payment Integration\",\n    \"Tech Meetups\",\n    \"Hackathons\",\n    \"Volunteer Work\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate based on the resume keywords and job requirements:\n\n{\n  \"meets_requirements\": false,\n  \"match_score\": 60,\n  \"strengths\": [\n    \"Experience with Python and basic machine learning\", \n    \"Knowledge of RESTful APIs\",\n    \"Experience with SQL databases\",\n    \"Some cloud experience (Jupyter Notebooks)\",\n    \"Strong web development background\",\n    \"Data visualization skills (Matplotlib, Chart.js)\"\n  ],\n  \"gaps\": [\n    \"Lacks 5+ years of software engineering experience\", \n    \"Lacks 3+ years of focused ML/AI experience\",\n    \"Missing Master's degree\",\n    \"No mention of experience with major cloud platforms (AWS, GCP, Azure)\",\n    \"No experience with ML frameworks like TensorFlow or PyTorch\",\n    \"Lacks experience with Docker, Kubernetes, CI/CD pipelines\"\n  ],\n  \"overall_assessment\": \"The candidate has some relevant skills in Python, ML, and web development. However, they lack the years of experience and several key requirements for this senior-level ML engineering role.\",\n  \"filtered_out\": true,\n  \"filter_reason\": \"Fails to meet minimum education (prefers Master's) and years of experience requirements (5+ in software engineering, 3+ in ML/AI).\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      }
+    ],
+    "final_ranking": []
+  },
+  {
+    "sequence": "A2->B1->C2",
+    "filtered_out": [
+      "resume1",
+      "resume2",
+      "resume3",
+      "resume4",
+      "resume5"
+    ],
+    "candidates": [
+      {
+        "resume_id": "resume1",
+        "a_output": {
+          "extracted_text": "Here is the structured JSON output summarizing the candidate's skills, experience, education, and additional keywords:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"TensorFlow\",\n    \"PyTorch\",\n    \"JAX\",\n    \"AWS\",\n    \"GCP\", \n    \"Azure\",\n    \"Docker\",\n    \"Kubernetes\",\n    \"Git\",\n    \"CI/CD\",\n    \"REST APIs\",\n    \"GraphQL\",\n    \"SQL\",\n    \"MongoDB\",\n    \"Neo4j\", \n    \"Redis\",\n    \"Spark\",\n    \"Kafka\",\n    \"Airflow\"\n  ],\n  \"soft_skills\": [\n    \"Technical Leadership\",\n    \"Project Management\",\n    \"Cross-functional Collaboration\",\n    \"Mentoring\",\n    \"Agile Development\",\n    \"Strategic Planning\"\n  ],\n  \"education\": [\n    \"Master of Science in Computer Science, Stanford University\",\n    \"Bachelor of Science in Computer Engineering, University of California, Berkeley\"\n  ],\n  \"experience\": [\n    \"Principal Machine Learning Engineer at Quantum AI Solutions (Jul 2020 - Present)\",\n    \"Senior Machine Learning Engineer at TechNova Inc (May 2017 - Jun 2020)\", \n    \"Machine Learning Engineer at DataPulse (Jan 2015 - Apr 2017)\"\n  ],\n  \"additional_keywords\": [\n    \"Deep Learning\",\n    \"NLP\",\n    \"Computer Vision\",\n    \"Reinforcement Learning\", \n    \"MLOps\",\n    \"Feature Engineering\",\n    \"Neural Architecture Search\",\n    \"Model Optimization\",\n    \"Distributed Training\",\n    \"Predictive Analytics\",\n    \"Conversational AI\",\n    \"Recommendation Systems\",\n    \"AWS Certified Machine Learning Specialist\",\n    \"Google Professional Machine Learning Engineer\",\n    \"Microsoft Certified: Azure AI Engineer Associate\",\n    \"Open-Source Contributor\",\n    \"Published Author\",\n    \"Patent Holder\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate's match to the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 95,\n  \"strengths\": [\n    \"Strong proficiency in Python and ML frameworks (TensorFlow, PyTorch, JAX)\",\n    \"Experience with major cloud platforms (AWS, GCP, Azure)\", \n    \"Knowledge of Docker, Kubernetes, and CI/CD pipelines\",\n    \"Familiarity with SQL and NoSQL databases (MongoDB, Neo4j, Redis)\",\n    \"Experience with big data technologies (Spark, Kafka, Airflow)\",\n    \"Master's degree in Computer Science\",\n    \"9+ years of relevant experience as a Machine Learning Engineer\"\n  ],\n  \"gaps\": [\n    \"No explicit mention of experience with RESTful API design and implementation\"\n  ],\n  \"overall_assessment\": \"The candidate is an excellent match for the Senior Machine Learning Engineer position, meeting or exceeding all key requirements. They bring extensive experience and expertise in developing and deploying ML models using Python and relevant frameworks. The candidate's background in cloud technologies, data engineering, and MLOps aligns very well with the role. They also possess valuable experience with big data tools and have demonstrated technical leadership. The only minor gap is the lack of explicitly listed experience with RESTful APIs.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume2",
+        "a_output": {
+          "extracted_text": "Here is the structured JSON output summarizing the key information from Sarah Johnson's resume:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"JavaScript\",\n    \"Node.js\", \n    \"React\",\n    \"AWS\",\n    \"GCP\",\n    \"Docker\",\n    \"Git\",\n    \"CI/CD\",\n    \"Jenkins\",\n    \"REST APIs\",\n    \"GraphQL\",\n    \"SQL\",\n    \"MySQL\",\n    \"PostgreSQL\",\n    \"TensorFlow\",\n    \"scikit-learn\",\n    \"Data Analysis\",\n    \"Jupyter\",\n    \"pandas\",\n    \"NumPy\",\n    \"Matplotlib\",\n    \"HTML5\",\n    \"CSS3\",\n    \"D3.js\",\n    \"MongoDB\",\n    \"Terraform\"\n  ],\n  \"soft_skills\": [\n    \"Team Collaboration\",\n    \"Agile/Scrum\",\n    \"Technical Documentation\", \n    \"Stakeholder Communication\",\n    \"Problem Solving\",\n    \"Mentoring\",\n    \"On-call Support\"\n  ],\n  \"education\": [\n    \"Bachelor of Science in Computer Science, University of Washington, 2011 - 2015, GPA: 3.6/4.0\",\n    \"Capstone Project: Real-time Analytics Dashboard for E-commerce\"\n  ],\n  \"experience\": [\n    \"Senior Software Engineer, Enterprise Solutions, Mar 2019 - Present\",\n    \"Software Engineer, TechSphere Inc., Jan 2017 - Feb 2019\", \n    \"Full Stack Developer, WebDynamics, Apr 2015 - Dec 2016\"\n  ],\n  \"additional_keywords\": [\n    \"Cloud-native Architecture\",\n    \"Legacy System Migration\",\n    \"Customer Segmentation\",\n    \"SaaS Platform\",\n    \"Business Intelligence Dashboards\",\n    \"High-volume Transactional Data\",\n    \"Data Visualization\",\n    \"User Authentication and Authorization\",\n    \"Mobile Application Integration\",\n    \"UX Design Collaboration\",\n    \"Dean's List\",\n    \"AWS Certified Solutions Architect\",\n    \"AWS Certified Developer - Associate\",\n    \"Certified Scrum Master\",\n    \"MongoDB Certified Developer\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is the assessment of the candidate based on their resume keywords and the job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"strengths\": [\n    \"Strong proficiency in Python and experience with ML frameworks like TensorFlow\",\n    \"Experience with cloud platforms AWS and GCP\", \n    \"Knowledge of data structures, algorithms, software design principles\",\n    \"Experience with Docker, CI/CD pipelines\",\n    \"Familiarity with SQL and NoSQL databases\",\n    \"Experience with REST APIs\"\n  ],\n  \"gaps\": [\n    \"Master's degree preferred but candidate has Bachelor's\",\n    \"Experience with distributed systems and big data technologies not explicitly mentioned\",\n    \"DevOps practices and infrastructure as code not highlighted\"\n  ],\n  \"overall_assessment\": \"The candidate is a strong match for the Senior Machine Learning Engineer role, meeting all core technical requirements and bringing extensive relevant experience. Minor gaps in education and specific tools can likely be addressed.\",\n  \"filtered_out\": false\n}\n\nThe candidate meets all the hard requirements for minimum education (Bachelor's degree), years of experience (5+), and core technical skills (Python, ML frameworks, cloud platforms). They demonstrate key strengths aligned with the role.\n\nA few minor gaps are noted in preferred qualifications but these do not appear to be critical blockers. The candidate should advance to the next stage of screening based on their strong overall match to requirements.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume3",
+        "a_output": {
+          "extracted_text": "Here is the JSON object with the extracted information from the resume:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"TensorFlow\", \n    \"PyTorch\",\n    \"JAX\",\n    \"scikit-learn\",\n    \"C++\",\n    \"Julia\",\n    \"Git\",\n    \"Linux\",\n    \"CUDA\",\n    \"Docker\",\n    \"SQL\",\n    \"AWS (basic)\"\n  ],\n  \"soft_skills\": [\n    \"Research Methodology\",\n    \"Technical Writing\",\n    \"Problem Solving\", \n    \"Analytical Thinking\",\n    \"Scientific Communication\",\n    \"Leadership\",\n    \"Mentoring\",\n    \"Collaboration\"\n  ],\n  \"education\": [\n    \"Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University, 2015 - 2019\", \n    \"Master of Science in Computer Science, University of Illinois Urbana-Champaign, 2013 - 2015\",\n    \"Bachelor of Science in Computer Engineering, University of Texas at Austin, 2009 - 2013\"\n  ],\n  \"experience\": [\n    \"Senior Machine Learning Engineer, Vision Technologies, June 2021 - Present\",\n    \"Research Scientist, AI Research Lab, August 2019 - May 2021\",\n    \"Machine Learning Intern, DataScience Inc., May 2018 - August 2018\", \n    \"Teaching Assistant: Machine Learning, Deep Learning, Computer Vision\"\n  ],\n  \"additional_keywords\": [\n    \"Computer Vision\",\n    \"Bayesian ML\", \n    \"Generative Models\",\n    \"Neural Networks\",\n    \"Transfer Learning\",  \n    \"Model Optimization\",\n    \"Explainable AI\",\n    \"Research-to-Production\",\n    \"Autonomous Systems\",\n    \"Embedded Devices\", \n    \"Edge Computing\",\n    \"Medical Image Analysis\",\n    \"Hyperparameter Tuning\",\n    \"Model Interpretability\"\n  ]\n}\n\nThe resume demonstrates a strong background in machine learning and computer vision, with a Ph.D. from a top university and industry experience at both research and applied roles. Key technical skills include proficiency in Python and major deep learning frameworks, as well as expertise in advanced ML techniques. Soft skills highlight research abilities, communication, leadership and collaboration. The candidate has a track record of publishing in top conferences and developing practical ML solutions."
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate based on the resume keywords and job description:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 95,\n  \"strengths\": [\n    \"Ph.D. in Computer Science with specialization in Machine Learning\",\n    \"Strong technical skills in Python, TensorFlow, PyTorch, and other ML frameworks\",\n    \"Experience deploying ML models in production\", \n    \"Knowledge of advanced ML techniques (deep learning, computer vision)\",\n    \"Research and applied industry experience at senior level\",\n    \"Proficiency in C++, Docker, SQL and other technologies listed in job description\",\n    \"Soft skills in collaboration, mentoring, and technical leadership\"\n  ],\n  \"gaps\": [\n    \"Bachelor's degree is in Computer Engineering, not Computer Science\",\n    \"No explicit mention of cloud platform experience (AWS, GCP, Azure)\", \n    \"Missing some nice-to-haves like big data tech and DevOps\"\n  ],\n  \"overall_assessment\": \"The candidate is an excellent fit for the Senior Machine Learning Engineer position, with a very strong educational background and relevant industry experience. They meet or exceed all the core technical and soft skill requirements. Minor gaps in cloud and big data are offset by advanced expertise in ML.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume4",
+        "a_output": {
+          "extracted_text": "Here is the structured JSON output summarizing the key information from Priya Patel's resume:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"Go\",\n    \"Terraform\",\n    \"AWS\",\n    \"Docker\", \n    \"Kubernetes\",\n    \"Helm\",\n    \"GitLab CI/CD\",\n    \"Jenkins\",\n    \"Airflow\",\n    \"Kubeflow\",\n    \"MLflow\",\n    \"Prometheus\",\n    \"Grafana\",\n    \"Linux\",\n    \"Bash\",\n    \"Infrastructure as Code\",\n    \"Microservices Architecture\",\n    \"Service Mesh\",\n    \"Load Balancing\",\n    \"ML Pipeline Automation\",\n    \"Model Serving\",\n    \"A/B Testing Frameworks\",\n    \"Feature Stores\",\n    \"Model Monitoring\",\n    \"Distributed Training\"\n  ],\n  \"soft_skills\": [\n    \"Cross-team Collaboration\",\n    \"Technical Documentation\",\n    \"Problem Solving\",\n    \"Mentoring\",\n    \"Process Improvement\",\n    \"Leadership\",\n    \"Communication\"\n  ],\n  \"education\": [\n    \"Bachelor of Science in Computer Engineering, University of Michigan, 2012-2016\",\n    \"Minor in Information Science\"\n  ],\n  \"experience\": [\n    \"Senior MLOps Engineer, AI Platform Systems, Apr 2020 - Present\",\n    \"DevOps Engineer, CloudSphere Technologies, Feb 2018 - Mar 2020\", \n    \"Infrastructure Engineer, Enterprise Systems Corp, Jun 2016 - Jan 2018\"\n  ],\n  \"additional_keywords\": [\n    \"EKS\",\n    \"S3\",\n    \"EC2\", \n    \"Lambda\",\n    \"CloudFormation\",\n    \"Google Cloud Platform\",\n    \"Security Best Practices\",\n    \"Compliance\",\n    \"On-call\",\n    \"Certified Kubernetes Administrator (CKA)\",\n    \"AWS Certified DevOps Engineer - Professional\",\n    \"AWS Certified Solutions Architect - Associate\",\n    \"Terraform Associate Certification\",\n    \"Google Professional Cloud Architect\",\n    \"ML Platform Blueprint\",\n    \"AutoMLOps\",\n    \"Model Monitoring Dashboard\",\n    \"Distributed Training Cluster\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate's match to the job requirements:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 90,\n  \"strengths\": [\n    \"Strong proficiency in Python and ML frameworks\",\n    \"Experience with AWS and cloud technologies\", \n    \"Knowledge of Docker, Kubernetes, CI/CD pipelines\",\n    \"Strong DevOps and infrastructure as code experience\",\n    \"Experience deploying ML models in production\",\n    \"Distributed systems and big data experience (Airflow, Kubeflow)\"\n  ],\n  \"gaps\": [\n    \"Master's degree preferred but not required\",\n    \"No explicit mention of SQL/NoSQL database experience\",\n    \"Experience with NLP or computer vision not specified\"\n  ],\n  \"overall_assessment\": \"The candidate is a strong match for the Senior Machine Learning Engineer position, meeting or exceeding most of the key requirements. Their extensive MLOps experience, Python and cloud skills, and deployment expertise make them well-suited for the role.\",\n  \"filtered_out\": false\n}\n\nThe candidate meets all the hard requirements, with 5+ years of relevant experience, a Bachelor's degree, and the required Python and ML skills. The minor gaps in their background are outweighed by their strengths in ML infrastructure, cloud engineering, and model deployment. Therefore, they pass the initial screening and should be considered a competitive applicant for the position.",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume5",
+        "a_output": {
+          "technical_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Python (Basic)",
+            "Git",
+            "REST APIs",
+            "SQL",
+            "pandas (Basic)",
+            "NumPy (Basic)",
+            "Jupyter Notebooks",
+            "scikit-learn (Introductory)",
+            "Chart.js",
+            "WordPress",
+            "jQuery",
+            "SEO",
+            "A/B Testing",
+            "Google Analytics",
+            "Matplotlib",
+            "Stripe API"
+          ],
+          "soft_skills": [
+            "Communication",
+            "Project Management",
+            "Client Relations",
+            "Teamwork",
+            "Problem Solving",
+            "Creative Thinking",
+            "Quick Learner",
+            "Passionate",
+            "Analytical",
+            "Attention to Detail",
+            "Time Management"
+          ],
+          "education": [
+            "Data Science Bootcamp Certificate - TechBootcamps",
+            "Web Development Bootcamp - CodeAcademy Professional",
+            "Bachelor of Arts in Marketing - State University",
+            "Minor in Business Administration - State University"
+          ],
+          "experience": [
+            "Front-End Developer - WebCreative Studio (Sep 2021 - Present)",
+            "Junior Web Developer - Digital Marketing Solutions (Mar 2020 - Aug 2021)",
+            "Marketing Specialist - Brand Innovators (Jul 2017 - Feb 2020)"
+          ],
+          "additional_keywords": [
+            "Web Development",
+            "Machine Learning",
+            "Data Science",
+            "Digital Marketing",
+            "Responsive Web Design",
+            "Progressive Web Applications",
+            "User Interface",
+            "User Experience",
+            "Website Optimization",
+            "Content Creation",
+            "Email Marketing",
+            "Social Media Marketing",
+            "Vendor Management",
+            "Performance Reporting",
+            "Predictive Modeling",
+            "Classification Algorithms",
+            "E-commerce",
+            "Payment Integration",
+            "Tech Meetups",
+            "Hackathons",
+            "Volunteer Work"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my assessment of the candidate based on the given job description:\n\n{\n    \"meets_requirements\": false,\n    \"match_score\": 40,\n    \"strengths\": [\n        \"Experience with Python and basic ML libraries\",\n        \"Knowledge of RESTful APIs\",\n        \"Basic SQL skills\",\n        \"Experience with web development technologies\",\n        \"Strong problem solving and analytical skills\"\n    ],\n    \"gaps\": [\n        \"Lacks required 5+ years of software engineering experience\",\n        \"Only 3 years of web development experience, no professional ML/AI experience\", \n        \"No mention of cloud technologies like AWS, GCP, Azure\",\n        \"Lacking experience with ML frameworks like TensorFlow, PyTorch\",\n        \"Missing knowledge of distributed systems, Docker, Kubernetes\"\n    ],\n    \"overall_assessment\": \"The candidate has some relevant skills like Python and web development, but lacks the depth of experience and specific ML/AI expertise required for a senior-level machine learning engineering role.\",\n    \"filtered_out\": true,\n    \"filter_reason\": \"Did not meet minimum requirement of 5+ years software engineering experience including 3+ years ML/AI experience.\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      }
+    ],
+    "final_ranking": []
+  },
+  {
+    "sequence": "A2->B2->C1",
+    "filtered_out": [
+      "resume1",
+      "resume2",
+      "resume3",
+      "resume4",
+      "resume5"
+    ],
+    "candidates": [
+      {
+        "resume_id": "resume1",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "CI/CD",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MongoDB",
+            "Neo4j",
+            "Redis",
+            "Spark",
+            "Kafka",
+            "Airflow",
+            "Deep Learning",
+            "NLP",
+            "Computer Vision",
+            "Reinforcement Learning",
+            "MLOps",
+            "Feature Engineering",
+            "Neural Architecture Search",
+            "Model Optimization",
+            "Distributed Training"
+          ],
+          "soft_skills": [
+            "Technical Leadership",
+            "Project Management",
+            "Cross-functional Collaboration",
+            "Mentoring",
+            "Agile Development",
+            "Strategic Planning"
+          ],
+          "education": [
+            "Master of Science in Computer Science, Stanford University, Specialization: Artificial Intelligence and Machine Learning",
+            "Bachelor of Science in Computer Engineering, University of California, Berkeley, Minor in Mathematics"
+          ],
+          "experience": [
+            "Principal Machine Learning Engineer at Quantum AI Solutions (Jul 2020 - Present): Led development of computer vision system, architected ML platform, designed distributed training pipeline, implemented GitOps, mentored ML engineers",
+            "Senior Machine Learning Engineer at TechNova Inc (May 2017 - Jun 2020): Built NLP models for conversational AI, developed ML microservices infrastructure, created real-time recommendation system, established ML monitoring systems, collaborated with product teams",
+            "Machine Learning Engineer at DataPulse (Jan 2015 - Apr 2017): Designed predictive analytics models, developed data processing pipelines, built REST APIs, collaborated with data engineers"
+          ],
+          "additional_keywords": [
+            "AWS Certified Machine Learning Specialist",
+            "Google Professional Machine Learning Engineer",
+            "Microsoft Certified: Azure AI Engineer Associate",
+            "Contributor to TensorFlow and PyTorch open-source projects",
+            "Published 3 papers at NeurIPS and ICML conferences",
+            "Patent: Method for Distributed Training of Large-Scale Neural Networks"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in JSON format:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 95,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n      \"met\": true,\n      \"evidence\": \"Master of Science in Computer Science, Stanford University, Specialization: Artificial Intelligence and Machine Learning; Bachelor of Science in Computer Engineering, University of California, Berkeley, Minor in Mathematics\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n      \"met\": true,\n      \"evidence\": \"8+ years of relevant experience, with over 5 years focused on ML engineering roles since Jan 2015\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n      \"met\": true, \n      \"evidence\": \"Lists Python, TensorFlow, and PyTorch under technical skills; Contributor to TensorFlow and PyTorch open-source projects\"\n    },\n    {\n      \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n      \"met\": true,\n      \"evidence\": \"Lists AWS, GCP, and Azure under technical skills; holds certifications from all three major cloud providers\"\n    },\n    {\n      \"requirement\": \"Knowledge of data structures, algorithms, and software design principles\",\n      \"met\": true,\n      \"evidence\": \"Extensive experience as a software engineer; BS and MS in Computer Science/Engineering\"\n    },\n    {\n      \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n      \"met\": true,\n      \"evidence\": \"Lists Docker, Kubernetes, CI/CD under technical skills; implemented GitOps and MLOps practices in previous roles\"\n    },\n    {\n      \"requirement\": \"Familiarity with SQL and NoSQL databases\",\n      \"met\": true,\n      \"evidence\": \"Lists SQL, MongoDB, Neo4j, Redis under technical skills\" \n    },\n    {\n      \"requirement\": \"Experience with RESTful API design and implementation\",\n      \"met\": true,\n      \"evidence\": \"Built REST APIs in Machine Learning Engineer role at DataPulse\"\n    }\n  ],\n  \"key_strengths\": [\n    \"Deep expertise in AI/ML, with specialization from top Computer Science program\",\n    \"Extensive experience leading ML projects and teams in industry\", \n    \"Broad technical skillset covering ML frameworks, cloud, data engineering, DevOps\",\n    \"Multiple cloud certifications demonstrating knowledge of modern ML tools and platforms\",\n    \"Contributions to major open-source ML projects and published research papers\",\n    \"Well-rounded background in software engineering, infrastructure, and collaboration\"\n  ],\n  \"key_gaps\": [],\n  \"suitability_assessment\": \"The candidate is an extremely strong fit for the Senior Machine Learning Engineer position. They have a solid academic foundation in AI/ML from a top university, coupled with over 8 years of industry experience leading impactful machine learning projects. The breadth and depth of their technical skills, ranging from deep learning frameworks to cloud platforms to data engineering tools, positions them to drive complex ML initiatives. Strengths in technical leadership, cross-functional collaboration, and mentoring will enable them to lead teams effectively. With their impressive track record of ML research and open-source contributions, they can help advance the organization's AI capabilities. No major gaps identified relative to the requirements.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume2",
+        "a_output": {
+          "extracted_text": "Here is the extracted information structured as a JSON object:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"JavaScript\",\n    \"Node.js\", \n    \"React\",\n    \"AWS\",\n    \"GCP\",\n    \"Docker\",\n    \"Git\",\n    \"CI/CD\",\n    \"Jenkins\",\n    \"REST APIs\",\n    \"GraphQL\",\n    \"SQL\",\n    \"MySQL\",\n    \"PostgreSQL\",\n    \"TensorFlow (Basic)\",\n    \"scikit-learn\",\n    \"Data Analysis\",\n    \"Jupyter\",\n    \"pandas\",\n    \"NumPy\", \n    \"Matplotlib\",\n    \"HTML5\",\n    \"CSS3\",\n    \"D3.js\",\n    \"MongoDB\",\n    \"Terraform\"\n  ],\n  \"soft_skills\": [\n    \"Team Collaboration\",\n    \"Agile\",\n    \"Scrum\",\n    \"Technical Documentation\",\n    \"Stakeholder Communication\",\n    \"Problem Solving\",\n    \"Mentoring\",\n    \"On-call Support\"\n  ],\n  \"education\": [\n    \"Bachelor of Science in Computer Science, University of Washington, 2011 - 2015, GPA: 3.6/4.0\",\n    \"Capstone Project: Real-time Analytics Dashboard for E-commerce\" \n  ],\n  \"experience\": [\n    \"Senior Software Engineer, Enterprise Solutions, Mar 2019 - Present\",\n    \"Software Engineer, TechSphere Inc., Jan 2017 - Feb 2019\", \n    \"Full Stack Developer, WebDynamics, Apr 2015 - Dec 2016\"\n  ],\n  \"additional_keywords\": [\n    \"Full-stack Development\",\n    \"Machine Learning Applications\",\n    \"Cloud Infrastructure\", \n    \"Legacy System Migration\",\n    \"SaaS Platform\",\n    \"Business Intelligence Dashboards\",\n    \"High-volume Transactional Data\",\n    \"Responsive Web Applications\",\n    \"Mobile Application Integration\",\n    \"User Authentication and Authorization\",\n    \"Database Query Optimization\",\n    \"UX Design Collaboration\",\n    \"Dean's List\",\n    \"AWS Certified Solutions Architect\",\n    \"AWS Certified Developer - Associate\",\n    \"Certified Scrum Master\",\n    \"MongoDB Certified Developer\",\n    \"Personal Projects\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in the requested JSON format:\n\n{\n    \"meets_requirements\": false,\n    \"match_score\": 65,\n    \"requirement_analysis\": [\n        {\n            \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n            \"met\": true,\n            \"evidence\": \"Bachelor of Science in Computer Science, University of Washington, 2011 - 2015, GPA: 3.6/4.0\"\n        },\n        {\n            \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\",\n            \"met\": false,\n            \"evidence\": \"7 years of software engineering experience but only basic TensorFlow knowledge, no clear ML/AI focus\"\n        },\n        {\n            \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\", \n            \"met\": false,\n            \"evidence\": \"Python listed but only basic TensorFlow, no PyTorch, limited ML frameworks\"\n        },\n        {\n            \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n            \"met\": true,\n            \"evidence\": \"AWS and GCP listed in technical skills\"\n        },\n        {\n            \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n            \"met\": true,\n            \"evidence\": \"Docker, CI/CD, and Jenkins listed in technical skills\"\n        }\n    ],\n    \"key_strengths\": [\n        \"Strong full-stack development experience\",\n        \"Proficient in Python and multiple programming languages\", \n        \"AWS and GCP cloud experience\",\n        \"Knowledge of DevOps practices like Docker and CI/CD\",\n        \"Experience with SQL and NoSQL databases\"\n    ],\n    \"key_gaps\": [\n        \"Missing 3+ years of focused ML/AI engineering experience\",\n        \"Lacks strong machine learning framework experience beyond basic TensorFlow\",\n        \"No mention of deploying models into production\",\n        \"Missing experience optimizing ML systems for performance and scalability\"\n    ],\n    \"suitability_assessment\": \"The candidate has a solid foundation in software engineering with 7 years of experience and a CS degree. They demonstrate abilities across the stack and familiarity with cloud, DevOps, and databases. However, they lack the depth of machine learning engineering experience required for this senior-level role. With only basic TensorFlow knowledge and no clear experience deploying and optimizing ML models in production, they do not meet the key requirement of 3+ years focused on ML/AI. Therefore, despite overall technical aptitude, the candidate is not the best fit for this Senior Machine Learning Engineer position as described.\",\n    \"filtered_out\": true,\n    \"filter_reason\": \"Lacks minimum of 3+ years of experience focused on ML/AI engineering\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume3",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "scikit-learn",
+            "C++",
+            "Julia",
+            "Git",
+            "Linux",
+            "CUDA",
+            "Docker",
+            "SQL",
+            "AWS (basic)",
+            "Computer Vision",
+            "Bayesian ML",
+            "Generative Models",
+            "Neural Networks",
+            "Transfer Learning",
+            "Model Optimization",
+            "Explainable AI",
+            "Machine Learning",
+            "Deep Learning",
+            "Research-to-Production ML",
+            "Mathematical Foundation",
+            "Embedded Devices",
+            "Resource-Constrained Environments",
+            "Edge Computing",
+            "Medical Image Analysis",
+            "Data Preprocessing",
+            "Model Interpretability"
+          ],
+          "soft_skills": [
+            "Research Methodology",
+            "Technical Writing",
+            "Problem Solving",
+            "Analytical Thinking",
+            "Scientific Communication",
+            "Collaboration",
+            "Mentoring",
+            "Cross-Functional Teamwork",
+            "Translating Research to Applications"
+          ],
+          "education": [
+            "Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University",
+            "Master of Science in Computer Science, University of Illinois Urbana-Champaign",
+            "Bachelor of Science in Computer Engineering, University of Texas at Austin"
+          ],
+          "experience": [
+            "Senior Machine Learning Engineer, Vision Technologies, June 2021 - Present",
+            "Research Scientist, AI Research Lab, August 2019 - May 2021",
+            "Machine Learning Intern, DataScience Inc., May 2018 - August 2018",
+            "Teaching Assistant, Carnegie Mellon University, Machine Learning/Deep Learning/Computer Vision"
+          ],
+          "additional_keywords": [
+            "Object Detection",
+            "Semantic Segmentation",
+            "Hyperparameter Tuning",
+            "Mathematical Minor",
+            "Published Papers in Top ML/CV Conferences and Journals",
+            "Library Development",
+            "Neural Network Compression",
+            "Model Visualization",
+            "Research Focus in Machine Learning and Computer Vision",
+            "Dissertation on Efficient Neural Architectures",
+            "Thesis on Bayesian Optimization Methods"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in JSON format:\n\n{\n    \"meets_requirements\": true,\n    \"match_score\": 90,\n    \"requirement_analysis\": [\n        {\"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\", \"met\": true, \"evidence\": \"Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University; Master of Science in Computer Science, University of Illinois Urbana-Champaign; Bachelor of Science in Computer Engineering, University of Texas at Austin\"},\n        {\"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \"met\": true, \"evidence\": \"Senior Machine Learning Engineer, Vision Technologies, June 2021 - Present; Research Scientist, AI Research Lab, August 2019 - May 2021; over 3 years focused on ML/AI\"},\n        {\"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\", \"met\": true, \"evidence\": \"Python, TensorFlow, PyTorch listed in technical skills\"},  \n        {\"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\", \"met\": true, \"evidence\": \"AWS (basic) listed in technical skills\"},\n        {\"requirement\": \"Knowledge of data structures, algorithms, and software design principles\", \"met\": true, \"evidence\": \"Strong CS fundamentals evidenced by degrees and experience\"},\n        {\"requirement\": \"Experience with Docker\", \"met\": true, \"evidence\": \"Docker listed in technical skills\"},\n        {\"requirement\": \"Familiarity with SQL\", \"met\": true, \"evidence\": \"SQL listed in technical skills\"}\n    ],\n    \"key_strengths\": [\n        \"Ph.D. in Machine Learning from top university\",\n        \"Extensive experience in ML engineering and AI research\", \n        \"Strong theoretical foundation in ML and math\",\n        \"Expertise in computer vision and deep learning\",\n        \"Published researcher with experience translating to applications\",\n        \"Proficiency in a wide range of ML tools, frameworks and languages\"\n    ],\n    \"key_gaps\": [\n        \"No explicit mention of API design/implementation experience\",\n        \"Kubernetes and CI/CD experience not specified\"\n    ],\n    \"suitability_assessment\": \"This candidate is an extremely well-qualified senior machine learning engineer. They have a Ph.D. in machine learning from a top university, multiple years of focused experience in ML engineering and AI research, and deep expertise across the ML stack. Their strengths in computer vision, deep learning, research-to-production ML, and theoretical foundations make them an ideal fit for a senior role. While a couple minor preferred qualifications are not explicitly met, their extensive relevant experience and skills more than compensate. I believe they would be a valuable addition to the AI team and are well-suited to mentor junior engineers.\",\n    \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume4",
+        "a_output": {
+          "extracted_text": "Here is the structured JSON output with the requested information extracted from the provided resume:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"Go\",\n    \"Terraform\",\n    \"AWS\",\n    \"Docker\", \n    \"Kubernetes\",\n    \"Helm\",\n    \"GitLab CI/CD\",\n    \"Jenkins\",\n    \"Airflow\",\n    \"Kubeflow\",\n    \"MLflow\",\n    \"Prometheus\",\n    \"Grafana\",\n    \"Linux\",\n    \"Bash\",\n    \"AWS (EKS, S3, EC2, Lambda)\",\n    \"Infrastructure as Code\",\n    \"Microservices Architecture\",\n    \"Service Mesh\",\n    \"Load Balancing\",\n    \"ML Pipeline Automation\",\n    \"Model Serving\",\n    \"A/B Testing Frameworks\",\n    \"Feature Stores\",\n    \"Model Monitoring\",\n    \"Distributed Training\"\n  ],\n  \"soft_skills\": [\n    \"Cross-team Collaboration\",\n    \"Technical Documentation\", \n    \"Problem Solving\",\n    \"Mentoring\",\n    \"Process Improvement\"\n  ],\n  \"education\": [\n    \"Bachelor of Science in Computer Engineering, University of Michigan, 2012 - 2016\",\n    \"Minor in Information Science\"\n  ],\n  \"experience\": [\n    \"Senior MLOps Engineer at AI Platform Systems, Apr 2020 - Present\",\n    \"DevOps Engineer at CloudSphere Technologies, Feb 2018 - Mar 2020\", \n    \"Infrastructure Engineer at Enterprise Systems Corp, Jun 2016 - Jan 2018\"\n  ],\n  \"additional_keywords\": [\n    \"Model Deployment\",\n    \"Cloud Expenditure Optimization\",\n    \"Automated Infrastructure Provisioning\",\n    \"Containerized Microservices\",\n    \"Monitoring and Alerting\",\n    \"Security Best Practices\",\n    \"Compliance Requirements\",\n    \"Production Support\",\n    \"On-call Rotation\",\n    \"Senior Project on Automated Deployment Systems\",\n    \"Certified Kubernetes Administrator (CKA)\",\n    \"AWS Certified DevOps Engineer - Professional\",\n    \"AWS Certified Solutions Architect - Associate\", \n    \"Terraform Associate Certification\",\n    \"Google Professional Cloud Architect\",\n    \"Open-source ML Platform Blueprint\",\n    \"AutoMLOps Toolkit\",\n    \"Model Monitoring Dashboard\",\n    \"Distributed Training Cluster Configuration\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate's suitability for the Senior Machine Learning Engineer role based on the job requirements and the candidate's resume keywords:\n\n{\n  \"meets_requirements\": false,\n  \"match_score\": 40,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n      \"met\": true,\n      \"evidence\": \"Bachelor of Science in Computer Engineering, University of Michigan, 2012 - 2016\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\",\n      \"met\": false,\n      \"evidence\": \"6 years total software engineering experience but no clear evidence of 3+ years ML/AI focus\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n      \"met\": false,\n      \"evidence\": \"Python listed as a skill but no mention of TensorFlow, PyTorch or other ML frameworks\" \n    },\n    {\n      \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n      \"met\": true,\n      \"evidence\": \"AWS (EKS, S3, EC2, Lambda) and several AWS certifications listed\"\n    }\n  ],\n  \"key_strengths\": [\n    \"Strong DevOps and infrastructure automation skills\",\n    \"Kubernetes administration and deployment experience\",\n    \"Familiarity with machine learning operations and pipelines\"\n  ],\n  \"key_gaps\": [\n    \"No clear evidence of 3+ years of direct ML/AI engineering experience\",\n    \"Missing experience with key ML frameworks like TensorFlow or PyTorch\", \n    \"Lacks specific experience developing and deploying ML models\"\n  ],\n  \"suitability_assessment\": \"While the candidate has impressive DevOps and ML operations experience, they do not clearly meet the minimum requirement of 5+ years software engineering with 3+ years ML/AI focus. The resume also lacks evidence of hands-on experience with key ML frameworks and developing models, which are core skills for the role. The candidate's infrastructure and pipeline skills would certainly be valuable to an ML team, but they may not be suitable for a Senior MLE position focused on model development. I would recommend they gain more direct ML engineering experience before being considered for this level of role.\",\n  \"filtered_out\": true,\n  \"filter_reason\": \"Fails 5+ years experience requirement with 3+ years ML/AI engineering\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume5",
+        "a_output": {
+          "technical_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Basic Python",
+            "Git",
+            "REST APIs",
+            "SQL",
+            "WordPress",
+            "jQuery",
+            "SEO",
+            "A/B Testing",
+            "Google Analytics",
+            "Chart.js",
+            "pandas (basic)",
+            "NumPy (basic)",
+            "Jupyter Notebooks",
+            "scikit-learn (introductory)",
+            "Matplotlib",
+            "Stripe API"
+          ],
+          "soft_skills": [
+            "Communication",
+            "Project Management",
+            "Client Relations",
+            "Teamwork",
+            "Problem Solving",
+            "Creative Thinking",
+            "Quick Learner",
+            "Passionate",
+            "Analytical"
+          ],
+          "education": [
+            "Data Science Bootcamp Certificate - TechBootcamps",
+            "Web Development Bootcamp - CodeAcademy Professional",
+            "Bachelor of Arts in Marketing - State University",
+            "Minor in Business Administration"
+          ],
+          "experience": [
+            "Front-End Developer - WebCreative Studio (Sep 2021 - Present): Developed responsive websites using React, implemented PWAs, optimized performance, collaborated with designers, started integrating data dashboards",
+            "Junior Web Developer - Digital Marketing Solutions (Mar 2020 - Aug 2021): Built WordPress websites, created interactive features with JS/jQuery, implemented SEO, conducted A/B testing, assisted with digital marketing",
+            "Marketing Specialist - Brand Innovators (Jul 2017 - Feb 2020): Executed digital marketing campaigns, analyzed performance with Google Analytics, created content, coordinated with vendors, prepared reports"
+          ],
+          "additional_keywords": [
+            "Web Development",
+            "Machine Learning",
+            "Data Science",
+            "Digital Marketing",
+            "Content Creation",
+            "Analytics",
+            "Reporting",
+            "Responsive Design",
+            "UI/UX",
+            "Performance Optimization",
+            "Progressive Web Apps",
+            "Classification Algorithms",
+            "Predictive Modeling",
+            "E-commerce",
+            "Payment Integration",
+            "Tech Meetups",
+            "Hackathons",
+            "Volunteer",
+            "Non-profit"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in JSON format:\n\n{\n    \"meets_requirements\": false,\n    \"match_score\": 30,\n    \"requirement_analysis\": [\n        {\n            \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n            \"met\": false,\n            \"evidence\": \"Candidate has a Bachelor of Arts in Marketing and data science/web dev bootcamp certificates, but no CS or Engineering degree\"\n        },\n        {\n            \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\",\n            \"met\": false,\n            \"evidence\": \"Candidate only has about 2 years of web development experience, with no professional ML/AI experience\"\n        },\n        {\n            \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n            \"met\": false, \n            \"evidence\": \"Candidate only lists basic Python skills and introductory scikit-learn, with no TensorFlow or PyTorch\"\n        },\n        {\n            \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n            \"met\": false,\n            \"evidence\": \"No mention of any cloud platform experience\"\n        },\n        {\n            \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\", \n            \"met\": false,\n            \"evidence\": \"No indication of Docker, Kubernetes, or CI/CD experience\"\n        }\n    ],\n    \"key_strengths\": [\n        \"Web development experience with React, Node.js, MongoDB, REST APIs\",\n        \"Knowledge of SQL and data analytics tools like pandas, NumPy, Jupyter\",\n        \"Strong digital marketing background and experience with SEO, Google Analytics, A/B testing\",\n        \"Driven self-starter pursuing education in data science and machine learning\"\n    ],\n    \"key_gaps\": [\n        \"Lacks required Computer Science or Engineering degree\",\n        \"Insufficient years of software engineering and ML/AI experience\",\n        \"Missing strong Python skills and experience with key ML frameworks\",\n        \"No professional experience with cloud platforms, Docker, Kubernetes, CI/CD\" \n    ],\n    \"suitability_assessment\": \"While the candidate shows promise with their web development skills, data science bootcamp training, and strong drive to learn, they do not currently meet several key requirements for the Senior Machine Learning Engineer position. Their educational background is in Marketing rather than Computer Science or Engineering, and they lack the necessary years of professional experience in software engineering and ML/AI development. The candidate is also missing required technical skills like strong Python programming, hands-on experience with major ML frameworks like TensorFlow and PyTorch, and real-world expertise with cloud platforms, Docker, Kubernetes, and CI/CD pipelines. Therefore, despite some relevant strengths, the candidate falls short of the core qualifications needed for this senior-level ML engineering role.\",\n    \"filtered_out\": true,\n    \"filter_reason\": \"Candidate lacks required Bachelor's in Computer Science/Engineering, 5+ years of software engineering experience with 3+ years in ML/AI, and other key technical requirements.\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      }
+    ],
+    "final_ranking": []
+  },
+  {
+    "sequence": "A2->B2->C2",
+    "filtered_out": [
+      "resume1",
+      "resume2",
+      "resume3",
+      "resume4",
+      "resume5"
+    ],
+    "candidates": [
+      {
+        "resume_id": "resume1",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "CI/CD",
+            "REST APIs",
+            "GraphQL",
+            "SQL",
+            "MongoDB",
+            "Neo4j",
+            "Redis",
+            "Spark",
+            "Kafka",
+            "Airflow",
+            "Deep Learning",
+            "NLP",
+            "Computer Vision",
+            "Reinforcement Learning",
+            "MLOps",
+            "Feature Engineering",
+            "Neural Architecture Search",
+            "Model Optimization",
+            "Distributed Training",
+            "Predictive Analytics",
+            "Data Processing",
+            "Model Serving",
+            "Database Query Optimization",
+            "Data Storage Optimization",
+            "Edge Devices"
+          ],
+          "soft_skills": [
+            "Technical Leadership",
+            "Project Management",
+            "Cross-functional Collaboration",
+            "Mentoring",
+            "Agile Development",
+            "Strategic Planning",
+            "Problem Solving",
+            "Communication"
+          ],
+          "education": [
+            "Master of Science in Computer Science, Stanford University, 2013-2015. Specialization: Artificial Intelligence and Machine Learning. Thesis: \"Efficient Transformer Architectures for Edge Devices\". GPA: 3.95/4.0",
+            "Bachelor of Science in Computer Engineering, University of California, Berkeley, 2009-2013. Minor in Mathematics. Senior Project: \"Distributed Computing for ML Applications\". GPA: 3.8/4.0"
+          ],
+          "experience": [
+            "Principal Machine Learning Engineer, Quantum AI Solutions, Jul 2020 - Present. Led development of computer vision system improving defect detection by 78% ($2.4M savings). Architected ML platform for 40+ data scientists. Designed distributed training pipeline. Implemented GitOps (99.9% reliability). Mentored 8 ML engineers.",
+            "Senior Machine Learning Engineer, TechNova Inc, May 2017 - Jun 2020. Built NLP models for conversational AI (10M+ users). Developed ML microservices infrastructure (85% faster deployments). Created real-time recommendation system (+43% engagement). Established ML monitoring systems. Integrated AI into products.",
+            "Machine Learning Engineer, DataPulse, Jan 2015 - Apr 2017. Designed predictive analytics models for financial risk. Developed Spark data pipelines for TB-scale data. Built model serving APIs. Optimized database queries and data storage."
+          ],
+          "additional_keywords": [
+            "Open-Source Contributor (TensorFlow, PyTorch)",
+            "3 Papers Published (NeurIPS, ICML)",
+            "Patent Holder",
+            "AWS Certified Machine Learning Specialist",
+            "Google Professional Machine Learning Engineer",
+            "Microsoft Certified: Azure AI Engineer Associate"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in JSON format:\n\n{\n  \"meets_requirements\": true,\n  \"match_score\": 95,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n      \"met\": true,\n      \"evidence\": \"Candidate has a Master of Science in Computer Science from Stanford University and Bachelor of Science in Computer Engineering from UC Berkeley\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\",\n      \"met\": true, \n      \"evidence\": \"Candidate has over 7 years of experience as a Machine Learning Engineer at various companies\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n      \"met\": true,\n      \"evidence\": \"Technical skills include Python, TensorFlow, PyTorch. Candidate is also an open-source contributor to TensorFlow and PyTorch\"\n    },\n    {\n      \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n      \"met\": true,\n      \"evidence\": \"Candidate has experience with AWS, GCP, and Azure. Also holds certifications: AWS Machine Learning Specialist, Google Professional ML Engineer, Azure AI Engineer Associate\"  \n    },\n    {\n      \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n      \"met\": true,\n      \"evidence\": \"Technical skills include Docker, Kubernetes, Git, CI/CD. Implemented GitOps at previous role with 99.9% reliability\"\n    },\n    {\n      \"requirement\": \"Familiarity with SQL and NoSQL databases\", \n      \"met\": true,\n      \"evidence\": \"Experience with SQL, MongoDB, Neo4j, Redis databases. Optimized database queries and data storage in previous role\"\n    }\n  ],\n  \"key_strengths\": [\n    \"Strong educational background with MS in CS from Stanford and BS from UC Berkeley\",\n    \"Extensive experience in ML engineering roles with increasing responsibilities\", \n    \"Deep expertise in Python and major ML frameworks like TensorFlow and PyTorch\",\n    \"Broad knowledge of cloud platforms, DevOps tools, databases, big data technologies\", \n    \"Track record of delivering high-impact ML solutions and optimizing systems\",\n    \"Technical leadership skills including architecting ML platforms and mentoring engineers\"\n  ],\n  \"key_gaps\": [],\n  \"suitability_assessment\": \"The candidate is an exceptionally strong match for the Senior Machine Learning Engineer position. They possess all the required technical skills and far exceed the minimum educational and experience requirements. The breadth and depth of their ML expertise, spanning algorithm development to production deployment, make them well-suited to hit the ground running in this role. Strengths in technical leadership, cross-functional collaboration, and mentorship are also assets for the team. I would highly recommend moving this candidate to the interview stage, as they demonstrate key competencies needed to excel in the role and make a significant impact.\",\n  \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume2",
+        "a_output": {
+          "extracted_text": "Here is the extracted information structured as a JSON object:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"JavaScript\",\n    \"Node.js\", \n    \"React\",\n    \"AWS\",\n    \"GCP\",\n    \"Docker\",\n    \"Git\",\n    \"CI/CD\",\n    \"Jenkins\",\n    \"REST APIs\",\n    \"GraphQL\",\n    \"SQL\",\n    \"MySQL\",\n    \"PostgreSQL\",\n    \"Basic TensorFlow\",\n    \"scikit-learn\",\n    \"Data Analysis\",\n    \"Jupyter\",\n    \"pandas\",\n    \"NumPy\",\n    \"Matplotlib\",\n    \"HTML5\",\n    \"CSS3\",\n    \"D3.js\",\n    \"MongoDB\",\n    \"Terraform\"\n  ],\n  \"soft_skills\": [\n    \"Team Collaboration\",\n    \"Agile/Scrum\", \n    \"Technical Documentation\",\n    \"Stakeholder Communication\",\n    \"Problem Solving\",\n    \"Mentoring\",\n    \"On-call Support\"\n  ],\n  \"education\": [\n    \"Bachelor of Science in Computer Science, University of Washington, 2011 - 2015, GPA: 3.6/4.0\",\n    \"Capstone Project: Real-time Analytics Dashboard for E-commerce\"\n  ],\n  \"experience\": [\n    \"Senior Software Engineer, Enterprise Solutions, Mar 2019 - Present\",\n    \"Software Engineer, TechSphere Inc., Jan 2017 - Feb 2019\", \n    \"Full Stack Developer, WebDynamics, Apr 2015 - Dec 2016\"\n  ],\n  \"additional_keywords\": [\n    \"Machine Learning\",\n    \"Cloud Infrastructure\", \n    \"Scalable Applications\",\n    \"Legacy System Migration\",\n    \"Cost Reduction\",\n    \"Automation\",\n    \"Production Deployment\",\n    \"API Development\",\n    \"Data Visualization\",\n    \"Database Architecture\",\n    \"Performance Optimization\",\n    \"Mobile Integration\",\n    \"Authentication/Authorization\",\n    \"User Interface Design\",\n    \"Responsive Web Apps\",\n    \"Certifications: AWS Solutions Architect, AWS Developer, Scrum Master, MongoDB Developer\",\n    \"Personal Projects: Finance Tracker, Sentiment Analysis Tool, Cloud Infrastructure Templates\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in the requested JSON format:\n\n{\n  \"meets_requirements\": false,\n  \"match_score\": 65,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n      \"met\": true,\n      \"evidence\": \"Bachelor of Science in Computer Science, University of Washington, 2011 - 2015, GPA: 3.6/4.0\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n      \"met\": false,\n      \"evidence\": \"7 years of software engineering experience but no evidence of 3+ years focused on ML/AI\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n      \"met\": false, \n      \"evidence\": \"Python listed under technical skills but only Basic TensorFlow mentioned, no PyTorch\"\n    }\n  ],\n  \"key_strengths\": [\n    \"Strong software engineering background with 7+ years of experience\",\n    \"Proficient in a wide range of relevant technologies (AWS, GCP, Docker, APIs, databases)\",\n    \"Experience with data analysis tools and libraries (Jupyter, pandas, NumPy, Matplotlib)\", \n    \"Relevant soft skills like collaboration, communication, problem solving and mentoring\"\n  ],\n  \"key_gaps\": [\n    \"Lacks required 3+ years of experience specifically focused on ML/AI engineering\",\n    \"Missing strong proficiency with key ML frameworks like PyTorch\",\n    \"No mention of experience deploying ML models into production\",\n    \"Minimal evidence of expertise in ML concepts, algorithms and system design\"\n  ],\n  \"suitability_assessment\": \"While this candidate has an impressive background in software engineering and is proficient in many relevant technologies, they do not meet the minimum requirement of 5+ years experience with at least 3 years focused on ML/AI engineering. The candidate's machine learning experience seems more at a basic level rather than the expert proficiency needed for this senior role. They are lacking key skills like PyTorch and deploying models to production that are essential for the position. Overall, the candidate has a strong foundation but falls short on the depth of machine learning expertise required. I would not recommend moving forward with this candidate for the Senior Machine Learning Engineer position.\",\n  \"filtered_out\": true,\n  \"filter_reason\": \"Fails hard requirement of 5+ years experience with minimum 3 years ML/AI focus\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume3",
+        "a_output": {
+          "technical_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "JAX",
+            "scikit-learn",
+            "C++",
+            "Julia",
+            "Git",
+            "Linux",
+            "CUDA",
+            "Docker",
+            "SQL",
+            "AWS (basic)",
+            "Computer Vision",
+            "Bayesian ML",
+            "Generative Models",
+            "Neural Networks",
+            "Transfer Learning",
+            "Model Optimization",
+            "Explainable AI",
+            "Machine Learning",
+            "Deep Learning"
+          ],
+          "soft_skills": [
+            "Research Methodology",
+            "Technical Writing",
+            "Problem Solving",
+            "Analytical Thinking",
+            "Scientific Communication",
+            "Mentoring",
+            "Collaboration",
+            "Cross-functional teamwork",
+            "Leadership"
+          ],
+          "education": [
+            "Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University",
+            "Master of Science in Computer Science, University of Illinois Urbana-Champaign",
+            "Bachelor of Science in Computer Engineering, University of Texas at Austin"
+          ],
+          "experience": [
+            "Senior Machine Learning Engineer at Vision Technologies (June 2021 - Present)",
+            "Research Scientist at AI Research Lab (August 2019 - May 2021)",
+            "Machine Learning Intern at DataScience Inc. (May 2018 - August 2018)",
+            "Teaching Assistant for Machine Learning, Deep Learning, Computer Vision courses",
+            "Research focus on efficient deep learning architectures, computer vision, Bayesian optimization"
+          ],
+          "additional_keywords": [
+            "Autonomous systems",
+            "Embedded devices",
+            "Edge computing",
+            "Medical image analysis",
+            "Model interpretability",
+            "Neural architecture search",
+            "Network compression",
+            "Hyperparameter tuning",
+            "Generative models",
+            "Open-source",
+            "Research publications",
+            "Teaching experience"
+          ]
+        },
+        "b_output": {
+          "filtered_result": "Here is my evaluation of the candidate in the requested JSON format:\n\n{\n    \"meets_requirements\": true,\n    \"match_score\": 90,\n    \"requirement_analysis\": [\n        {\n            \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n            \"met\": true,\n            \"evidence\": \"Ph.D. in Computer Science (Machine Learning), Carnegie Mellon University; Master of Science in Computer Science, University of Illinois Urbana-Champaign; Bachelor of Science in Computer Engineering, University of Texas at Austin\"\n        },\n        {\n            \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n            \"met\": true,\n            \"evidence\": \"Research Scientist at AI Research Lab (August 2019 - May 2021), Senior Machine Learning Engineer at Vision Technologies (June 2021 - Present), along with prior research and internship experience\"\n        },\n        {\n            \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n            \"met\": true, \n            \"evidence\": \"Python, TensorFlow, PyTorch listed under technical skills\"\n        },\n        {\n            \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n            \"met\": true,\n            \"evidence\": \"AWS (basic) listed under technical skills\"\n        },\n        {\n            \"requirement\": \"Knowledge of data structures, algorithms, and software design principles\",\n            \"met\": true,\n            \"evidence\": \"Implied by strong computer science education background and extensive ML engineering experience\"\n        },\n        {\n            \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n            \"met\": true,\n            \"evidence\": \"Docker listed under technical skills; Kubernetes and CI/CD experience likely given ML engineering roles\" \n        },\n        {\n            \"requirement\": \"Familiarity with SQL and NoSQL databases\",\n            \"met\": true,\n            \"evidence\": \"SQL listed under technical skills\"\n        }\n    ],\n    \"key_strengths\": [\n        \"Deep technical expertise in machine learning, with PhD-level education\",\n        \"Extensive experience in research and applying ML to computer vision\",\n        \"Strong engineering skills to implement ML models in production\", \n        \"Proficiency in a wide range of programming languages and ML tools\",\n        \"Experience with model optimization, explainability, and advanced ML topics\",\n        \"Track record of mentorship, teaching, and technical leadership\"\n    ],\n    \"key_gaps\": [\n        \"RESTful API design and implementation not explicitly mentioned\",\n        \"Experience with specific big data tools (Spark, Kafka) not listed\",\n        \"React or front-end framework experience not indicated\"\n    ],\n    \"suitability_assessment\": \"The candidate is an exceptionally strong fit for the Senior Machine Learning Engineer position. They bring deep technical expertise in ML and AI from their PhD studies and extensive research and engineering experience. The candidate meets or exceeds all of the core requirements, with proficiency in Python, ML frameworks, cloud platforms, data structures and algorithms. They also bring desirable skills in computer vision, Bayesian ML, model optimization, and explainable AI. While a few 'nice-to-haves' are not explicitly listed, like big data tools or front-end frameworks, the candidate's advanced degree, research background, and experience implementing and optimizing ML models in production settings make them well-suited to step into a technical leadership role and quickly pick up any skills needed. Overall, the candidate demonstrates great potential to excel in the role and make significant contributions to the team.\",\n    \"filtered_out\": false\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume4",
+        "a_output": {
+          "extracted_text": "Here is the JSON output with the candidate's information extracted from the resume:\n\n{\n  \"technical_skills\": [\n    \"Python\",\n    \"Go\",\n    \"Terraform\",\n    \"AWS\",\n    \"Docker\", \n    \"Kubernetes\",\n    \"Helm\",\n    \"GitLab CI/CD\",\n    \"Jenkins\",\n    \"Airflow\",\n    \"Kubeflow\",\n    \"MLflow\",\n    \"Prometheus\",\n    \"Grafana\",  \n    \"Linux\",\n    \"Bash\",\n    \"Infrastructure as Code\",\n    \"Microservices Architecture\", \n    \"Service Mesh\",\n    \"Load Balancing\",\n    \"ML Pipeline Automation\",\n    \"Model Serving\",\n    \"A/B Testing Frameworks\",\n    \"Feature Stores\",\n    \"Model Monitoring\",\n    \"Distributed Training\"\n  ],\n  \"soft_skills\": [\n    \"Cross-team Collaboration\",\n    \"Technical Documentation\",\n    \"Problem Solving\",\n    \"Mentoring\",\n    \"Process Improvement\" \n  ],\n  \"education\": [\n    \"Bachelor of Science in Computer Engineering, University of Michigan, 2012-2016\",\n    \"Minor in Information Science\"\n  ],\n  \"experience\": [\n    \"Senior MLOps Engineer, AI Platform Systems, Apr 2020 - Present: Designed and implemented enterprise ML platform, built scalable Kubernetes infrastructure, automated CI/CD pipelines, implemented ML system monitoring, created cost optimization systems\",\n    \"DevOps Engineer, CloudSphere Technologies, Feb 2018 - Mar 2020: Automated infrastructure provisioning with Terraform and CloudFormation, built containerized microservices with Docker and Kubernetes, implemented monitoring with Prometheus and Grafana, developed CI/CD pipelines, collaborated to improve deployment\",\n    \"Infrastructure Engineer, Enterprise Systems Corp, Jun 2016 - Jan 2018: Managed AWS and GCP cloud infrastructure, implemented security and compliance, automated tasks with Python and Bash, provided deployment and scaling support, participated in on-call rotation\"\n  ],\n  \"additional_keywords\": [\n    \"Certified Kubernetes Administrator (CKA)\", \n    \"AWS Certified DevOps Engineer - Professional\",\n    \"AWS Certified Solutions Architect - Associate\",\n    \"Terraform Associate Certification\",\n    \"Google Professional Cloud Architect\",\n    \"ML Platform Blueprint project\",\n    \"AutoMLOps toolkit project\", \n    \"Model Monitoring Dashboard project\",\n    \"Distributed Training Cluster project\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is the comprehensive evaluation of the candidate in JSON format:\n\n{\n  \"meets_requirements\": false,\n  \"match_score\": 0,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n      \"met\": false,\n      \"evidence\": \"Candidate has a Bachelor of Science in Computer Engineering, but no Master's degree\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n      \"met\": false,\n      \"evidence\": \"Candidate has over 5 years of software engineering experience but lacks the minimum 3 years focused specifically on ML/AI\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n      \"met\": true,\n      \"evidence\": \"Python listed in technical skills\"\n    }\n  ],\n  \"key_strengths\": [\n    \"Extensive experience with cloud platforms, infrastructure, and DevOps practices\",\n    \"Strong technical skills in areas like Docker, Kubernetes, monitoring, CI/CD\",\n    \"Several relevant certifications demonstrating knowledge and experience\"\n  ],\n  \"key_gaps\": [\n    \"Lacks the required educational background with a Master's degree preferred\",\n    \"Insufficient years of experience directly focused on machine learning and AI development\",\n    \"Missing specific experience with ML frameworks like TensorFlow or PyTorch which is a core requirement\",\n    \"Experience seems more infrastructure and DevOps focused rather than ML engineering\" \n  ],\n  \"suitability_assessment\": \"While the candidate has impressive experience with cloud infrastructure, DevOps practices, and some exposure to ML platforms and pipelines, they do not meet the core requirements for the Senior Machine Learning Engineer position. The role requires more years of direct, hands-on experience developing and deploying ML models using key frameworks, which the candidate lacks. Their education is also missing the preferred Master's degree. The candidate's experience and skills are stronger suited for a DevOps, MLOps or infrastructure-focused role rather than an ML engineering position.\",\n  \"filtered_out\": true,\n  \"filter_reason\": \"Fails to meet educational and work experience requirements which are hard requirements for the role\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      },
+      {
+        "resume_id": "resume5",
+        "a_output": {
+          "extracted_text": "Here is the JSON object with the extracted information from the resume:\n\n{\n  \"technical_skills\": [\n    \"HTML\",\n    \"CSS\", \n    \"JavaScript\",\n    \"React\",\n    \"Node.js\",\n    \"Express\",\n    \"MongoDB\",\n    \"Basic Python\",\n    \"Git\",\n    \"REST APIs\",\n    \"SQL\",\n    \"Basic pandas\",\n    \"NumPy\",\n    \"Jupyter Notebooks\",\n    \"scikit-learn (introductory level)\",\n    \"WordPress\",\n    \"jQuery\",\n    \"SEO\",\n    \"A/B testing\",\n    \"Chart.js\",\n    \"Matplotlib\",\n    \"Stripe API\"\n  ],\n  \"soft_skills\": [\n    \"Communication\",\n    \"Project Management\", \n    \"Client Relations\",\n    \"Teamwork\",\n    \"Problem Solving\",\n    \"Creative Thinking\",\n    \"Quick Learner\",\n    \"Analytical\",\n    \"Marketing\"\n  ],\n  \"education\": [\n    \"Data Science Bootcamp Certificate - TechBootcamps\",\n    \"Web Development Bootcamp - CodeAcademy Professional\",\n    \"Bachelor of Arts in Marketing - State University\"\n  ],\n  \"experience\": [\n    \"Front-End Developer - WebCreative Studio (Sep 2021 - Present)\",\n    \"Junior Web Developer - Digital Marketing Solutions (Mar 2020 - Aug 2021)\", \n    \"Marketing Specialist - Brand Innovators (Jul 2017 - Feb 2020)\"\n  ],\n  \"additional_keywords\": [\n    \"Web Development\",\n    \"Machine Learning\",\n    \"Data Science\",\n    \"Digital Marketing\",\n    \"Google Analytics\",\n    \"Content Creation\",\n    \"Vendor Management\",\n    \"Performance Reporting\",\n    \"Business Administration\",\n    \"Classification Algorithms\",\n    \"E-commerce\",\n    \"Payment Integration\",\n    \"Tech Meetups\",\n    \"Hackathons\",\n    \"Volunteer Web Developer\"\n  ]\n}"
+        },
+        "b_output": {
+          "filtered_result": "Here is my comprehensive evaluation of the candidate in JSON format:\n\n{\n  \"meets_requirements\": false,\n  \"match_score\": 45,\n  \"requirement_analysis\": [\n    {\n      \"requirement\": \"Bachelor's degree in Computer Science, Engineering, or related field; Master's preferred\",\n      \"met\": false,\n      \"evidence\": \"Candidate has a Bachelor of Arts in Marketing and bootcamp certificates, but no CS or Engineering degree\"\n    },\n    {\n      \"requirement\": \"5+ years of experience in software engineering with at least 3 years focused on ML/AI\", \n      \"met\": false,\n      \"evidence\": \"Candidate has ~2 years of general web development experience but no dedicated ML/AI experience\"\n    },\n    {\n      \"requirement\": \"Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch)\",\n      \"met\": false, \n      \"evidence\": \"Candidate has only basic Python skills and no experience with ML frameworks mentioned\"\n    },\n    {\n      \"requirement\": \"Experience with cloud platforms (AWS, GCP, or Azure)\",\n      \"met\": false,\n      \"evidence\": \"No mention of any cloud platform experience in candidate's profile\"  \n    },\n    {\n      \"requirement\": \"Experience with Docker, Kubernetes, and CI/CD pipelines\",\n      \"met\": false,\n      \"evidence\": \"Candidate does not list any experience with these tools and practices\"\n    }\n  ],\n  \"key_strengths\": [\n    \"Web development experience with HTML, CSS, JavaScript and related frameworks\",\n    \"Some exposure to data science, machine learning concepts and Python libraries\",\n    \"Marketing and business skills that could complement a technical role\",\n    \"Demonstrated interest in learning new technologies\"\n  ],\n  \"key_gaps\": [\n    \"Lacks formal education in computer science or a quantitative field\",\n    \"Missing multiple years of software engineering and ML/AI experience required\",\n    \"Limited proficiency in core skills like Python and no experience with key ML tools and platforms\",\n    \"No evidence of experience with cloud, containerization, CI/CD and other listed requirements\"\n  ],\n  \"suitability_assessment\": \"While the candidate demonstrates some relevant web development and data science experience, they do not meet several core requirements for the Senior Machine Learning Engineer position. Their educational background is in Marketing rather than Computer Science or a related technical field. They lack the depth of software engineering experience and specific ML/AI expertise called for, with only basic Python skills and no experience with essential tools and platforms like TensorFlow, cloud, Docker, or Kubernetes. Overall, there is a significant gap between the candidate's qualifications and the senior-level technical skills required.\",\n  \"filtered_out\": true,\n  \"filter_reason\": \"Candidate does not meet multiple hard requirements, including educational background, years of software engineering and ML/AI experience, and proficiency with required technologies.\"\n}",
+          "filtered_out": true,
+          "filter_reason": "Could not parse result"
+        },
+        "c_output": null,
+        "individual_rank": null,
+        "filtered_out": true,
+        "filter_reason": "Could not parse result"
+      }
+    ],
+    "final_ranking": []
+  }
+]

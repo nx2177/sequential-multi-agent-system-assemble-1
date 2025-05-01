@@ -1,0 +1,54 @@
+SARAH JOHNSON
+Senior Software Engineer
+sarah.johnson@email.com | (555) 234-5678 | linkedin.com/in/sarahjohnson
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 7+ years in full-stack development and a growing focus on machine learning applications. Strong background in cloud infrastructure and CI/CD pipelines. Skilled in Python, web technologies, and deploying scalable applications. Seeking to leverage solid engineering foundation while expanding machine learning expertise.
+
+SKILLS
+Technical: Python, JavaScript, Node.js, React, AWS, GCP, Docker, Git, CI/CD, Jenkins, REST APIs, GraphQL, SQL, MySQL, PostgreSQL
+ML/AI: Basic TensorFlow, scikit-learn, Data Analysis, Jupyter, pandas, NumPy, Matplotlib
+Soft Skills: Team Collaboration, Agile/Scrum, Technical Documentation, Stakeholder Communication, Problem Solving
+
+EXPERIENCE
+Senior Software Engineer
+Enterprise Solutions | Mar 2019 - Present
+- Led migration of legacy systems to cloud-native architecture, reducing operational costs by 45%
+- Implemented automated CI/CD pipelines reducing deployment time from days to hours
+- Integrated machine learning models into production applications for customer segmentation
+- Developed RESTful and GraphQL APIs serving 20M+ requests daily with 99.99% uptime
+- Mentored junior developers on software engineering best practices and cloud technologies
+
+Software Engineer
+TechSphere Inc. | Jan 2017 - Feb 2019
+- Built scalable backend services using Python and Node.js for SaaS platform with 100K+ users
+- Collaborated with data scientists to deploy ML models for business intelligence dashboards
+- Designed and implemented database architecture optimized for high-volume transactional data
+- Created data visualization components using React and D3.js
+- Participated in on-call rotation, resolving critical production issues
+
+Full Stack Developer
+WebDynamics | Apr 2015 - Dec 2016
+- Developed responsive web applications using JavaScript, HTML5, and CSS3
+- Built RESTful APIs for mobile application integration
+- Implemented user authentication and authorization systems
+- Optimized database queries improving application performance by 35%
+- Collaborated with UX designers to implement intuitive user interfaces
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington | 2011 - 2015
+- Dean's List (3 semesters)
+- Capstone Project: "Real-time Analytics Dashboard for E-commerce"
+- GPA: 3.6/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- AWS Certified Developer - Associate
+- Certified Scrum Master
+- MongoDB Certified Developer
+
+PROJECTS
+- Personal Finance Tracker: Built a full-stack application with React, Node.js, and MongoDB
+- Sentiment Analysis Tool: Implemented a basic sentiment analysis system using scikit-learn
+- Cloud Infrastructure Automation: Created Terraform templates for AWS infrastructure provisioning 

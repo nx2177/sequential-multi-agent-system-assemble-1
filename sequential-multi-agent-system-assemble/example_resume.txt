@@ -1,0 +1,42 @@
+JOHN DOE
+Software Engineer
+john.doe@email.com | (123) 456-7890 | linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 8+ years of experience developing robust applications with Python, JavaScript, and cloud technologies. Strong background in AI/ML implementation, data engineering, and building scalable web applications.
+
+SKILLS
+Technical: Python, JavaScript, TypeScript, React, Node.js, Django, Flask, AWS, Docker, Kubernetes, SQL, MongoDB, Redis, Git, CI/CD
+Soft Skills: Team Leadership, Project Management, Agile/Scrum, Technical Documentation, Problem Solving
+
+EXPERIENCE
+Senior Software Engineer
+Tech Solutions Inc. | Jan 2020 - Present
+- Led a team of 5 engineers to develop a machine learning platform that increased customer retention by 28%
+- Architected and implemented RESTful APIs handling 10M+ daily requests with 99.9% uptime
+- Optimized database queries resulting in 40% reduction in response time
+- Implemented CI/CD pipeline reducing deployment time from days to hours
+
+Software Engineer
+DataCorp | Mar 2017 - Dec 2019
+- Developed data processing pipelines handling 5TB of daily data
+- Built front-end dashboard using React and TypeScript that visualized key metrics
+- Collaborated with data scientists to implement ML models for predictive analytics
+- Reduced infrastructure costs by 25% through containerization and cloud optimization
+
+Junior Developer
+StartupTech | Jun 2015 - Feb 2017
+- Created responsive web applications using JavaScript and modern frameworks
+- Participated in code reviews and implemented unit tests increasing code quality
+- Assisted in database schema design and optimization
+
+EDUCATION
+Master of Science in Computer Science
+University of Technology | 2013 - 2015
+- Specialization in Artificial Intelligence
+- GPA: 3.8/4.0
+
+Bachelor of Science in Software Engineering
+Tech State University | 2009 - 2013
+- Minor in Mathematics
+- Dean's List: 6 semesters 

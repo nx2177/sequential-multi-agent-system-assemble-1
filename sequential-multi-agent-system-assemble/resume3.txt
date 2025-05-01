@@ -1,0 +1,66 @@
+MICHAEL RODRIGUEZ, Ph.D.
+Machine Learning Researcher & Engineer
+michael.rodriguez@email.com | (555) 345-6789 | linkedin.com/in/michaelrodriguez
+
+PROFESSIONAL SUMMARY
+Machine Learning specialist with a Ph.D. in Computer Science and 4 years of industry experience following extensive academic research. Expert in advanced machine learning algorithms, computer vision, and research-to-production ML workflows. Strong mathematical foundation combined with practical implementation skills in Python and deep learning frameworks.
+
+SKILLS
+Technical: Python, TensorFlow, PyTorch, JAX, scikit-learn, C++, Julia, Git, Linux, CUDA, Docker, SQL, AWS (basic)
+ML/AI: Computer Vision, Bayesian ML, Generative Models, Neural Networks, Transfer Learning, Model Optimization, Explainable AI
+Soft Skills: Research Methodology, Technical Writing, Problem Solving, Analytical Thinking, Scientific Communication
+
+EXPERIENCE
+Senior Machine Learning Engineer
+Vision Technologies | June 2021 - Present
+- Developed state-of-the-art computer vision models for autonomous systems with 94% accuracy
+- Designed specialized neural network architectures for embedded devices, reducing inference time by 65%
+- Implemented novel ML techniques from research papers into production systems
+- Collaborated with engineering teams to deploy models in resource-constrained environments
+- Mentored junior data scientists on advanced computer vision techniques
+
+Research Scientist
+AI Research Lab | August 2019 - May 2021
+- Conducted research on efficient deep learning architectures for edge computing
+- Published 2 papers in top-tier computer vision conferences (CVPR, ICCV)
+- Built computer vision models for object detection and semantic segmentation
+- Developed internal tools for model training and evaluation
+- Collaborated with cross-functional teams to translate research into practical applications
+
+Machine Learning Intern
+DataScience Inc. | May 2018 - August 2018
+- Implemented computer vision algorithms for medical image analysis
+- Designed preprocessing pipelines for noisy real-world data
+- Collaborated with medical professionals to validate model outputs
+- Created visualization tools for model interpretability
+
+EDUCATION
+Ph.D. in Computer Science (Machine Learning)
+Carnegie Mellon University | 2015 - 2019
+- Dissertation: "Efficient Neural Architectures for Computer Vision on Resource-Constrained Devices"
+- Published 5 papers in top ML/CV conferences and journals
+- Teaching Assistant: Machine Learning, Deep Learning, Computer Vision
+- GPA: 3.92/4.0
+
+Master of Science in Computer Science
+University of Illinois Urbana-Champaign | 2013 - 2015
+- Thesis: "Bayesian Optimization Methods for Hyperparameter Tuning"
+- Research Focus: Machine Learning, Computer Vision
+- GPA: 3.9/4.0
+
+Bachelor of Science in Computer Engineering
+University of Texas at Austin | 2009 - 2013
+- Minor in Mathematics
+- GPA: 3.85/4.0
+
+PUBLICATIONS & RESEARCH
+- "Efficient Transformer Variants for Edge Devices" - CVPR 2021
+- "Neural Architecture Search for Embedded Vision Systems" - ICCV 2020
+- "Memory-Efficient Training of Deep Neural Networks" - NeurIPS 2019
+- "Bayesian Optimization for Neural Network Compression" - ICML 2018
+- "Latent Space Manipulation for Generative Models" - ICLR 2018
+
+PROJECTS
+- LightVision: Open-source library for deploying computer vision models on edge devices
+- NeuroCompress: Framework for neural network compression with minimal accuracy loss
+- ML-Interpretability: Tools for visualizing and explaining black-box model predictions 

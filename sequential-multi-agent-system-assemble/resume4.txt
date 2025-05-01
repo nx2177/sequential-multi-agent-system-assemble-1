@@ -1,0 +1,57 @@
+PRIYA PATEL
+MLOps & Infrastructure Engineer
+priya.patel@email.com | (555) 456-7890 | linkedin.com/in/priyapatel
+
+PROFESSIONAL SUMMARY
+Dedicated MLOps Engineer with 5 years of experience specializing in building robust infrastructure for machine learning systems. Expert in containerization, orchestration, and automated ML pipelines. Strong background in DevOps practices with a growing knowledge of ML model deployment. Passionate about bridging the gap between data science and production engineering.
+
+SKILLS
+Technical: Python, Go, Terraform, AWS, Docker, Kubernetes, Helm, GitLab CI/CD, Jenkins, Airflow, Kubeflow, MLflow, Prometheus, Grafana, Linux, Bash
+Cloud & Infrastructure: AWS (EKS, S3, EC2, Lambda), Infrastructure as Code, Microservices Architecture, Service Mesh, Load Balancing
+ML/DevOps: ML Pipeline Automation, Model Serving, A/B Testing Frameworks, Feature Stores, Model Monitoring, Distributed Training
+Soft Skills: Cross-team Collaboration, Technical Documentation, Problem Solving, Mentoring, Process Improvement
+
+EXPERIENCE
+Senior MLOps Engineer
+AI Platform Systems | Apr 2020 - Present
+- Designed and implemented enterprise ML platform serving 50+ data scientists across organization
+- Built scalable Kubernetes-based infrastructure for ML model training and serving with 99.9% availability
+- Reduced model deployment time from weeks to hours through automated CI/CD pipelines
+- Implemented comprehensive monitoring for ML systems detecting model drift and performance degradation
+- Created cost optimization systems reducing cloud expenditure by 35% while maintaining performance
+
+DevOps Engineer
+CloudSphere Technologies | Feb 2018 - Mar 2020
+- Automated infrastructure provisioning with Terraform and CloudFormation
+- Built containerized microservices architecture using Docker and Kubernetes
+- Implemented monitoring and alerting systems using Prometheus and Grafana
+- Developed CI/CD pipelines for application deployment across multiple environments
+- Collaborated with development teams to improve deployment reliability and frequency
+
+Infrastructure Engineer
+Enterprise Systems Corp | Jun 2016 - Jan 2018
+- Managed cloud infrastructure on AWS and Google Cloud Platform
+- Implemented security best practices and compliance requirements
+- Automated routine operational tasks using Python and Bash
+- Provided technical support for application deployment and scaling
+- Participated in on-call rotation for production systems
+
+EDUCATION
+Bachelor of Science in Computer Engineering
+University of Michigan | 2012 - 2016
+- Minor in Information Science
+- Senior Project: "Automated Deployment Systems for Distributed Applications"
+- GPA: 3.5/4.0
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified DevOps Engineer - Professional
+- AWS Certified Solutions Architect - Associate
+- Terraform Associate Certification
+- Google Professional Cloud Architect
+
+PROJECTS
+- ML Platform Blueprint: Open-source reference architecture for Kubernetes-based ML platforms
+- AutoMLOps: Toolkit for automatically generating CI/CD pipelines for ML workflows
+- Model Monitoring Dashboard: Visualization system for tracking model performance and drift
+- Distributed Training Cluster: Configuration templates for optimized GPU cluster management 
