@@ -40,6 +40,8 @@ The system works through this sequence:
 ### Input Processing:
 
  -Loads resume texts and job description from files
+
+ 
  -Prepares inputs for the pipeline
 
 
